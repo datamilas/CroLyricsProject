@@ -1,0 +1,31 @@
+<%- include("../partials/header") %>
+
+
+
+
+
+
+<form action="/compare/show" method="GET">
+    <% for (const artist of artists) { %>
+        <img src= "<%= artist.image %>" width="200" height="200" class="artistImage" alt="<%= artist.name %>">
+        <input type="checkbox" id="<%= artist._id%>" name="artist" value="<%= artist._id%>">
+        <label for="<%= artist._id%>"><%= artist.name %></label><br>
+    <% } %>
+
+    <button class="submitButton" type="submit">Submit!</button>
+</form>
+
+
+        
+        
+
+
+
+
+
+
+
+
+<script> </script>
+       
+<%- include("../partials/footer") %>

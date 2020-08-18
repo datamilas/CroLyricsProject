@@ -1,0 +1,20 @@
+<%- include("../partials/header") %>
+
+<h3>Izvodaci</h3>
+
+    <div class="wrapper">
+
+        <div class="artists">
+        
+        <% for (const artist of artists) { %>
+            <a href="#" class="artistContainer">
+                <div class="overlay">
+                    <div class="artistName"><%= artist.name %></div>
+                </div> 
+                    <img src= "<%= artist.image %>" width="300" height="300" class="artistImage" alt="<%= artist.name %>">
+            </a>                
+        <% } %>
+        </div>
+    </div>
+        
+<%- include("../partials/footer") %>

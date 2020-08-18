@@ -1,0 +1,1524 @@
+Artist,Song,Song_ID,Surface,Tags,Lemma,Entity
+Mate Miso Kovac,A kad se tebi opet vratim,Zwn2Yv0K_0,A,Cc,a,O
+Mate Miso Kovac,A kad se tebi opet vratim,Zwn2Yv0K_0,kad,Cs,kad,O
+Mate Miso Kovac,A kad se tebi opet vratim,Zwn2Yv0K_0,se,Px--sa,sebe,O
+Mate Miso Kovac,A kad se tebi opet vratim,Zwn2Yv0K_0,tebi,Pp2-sd,ti,O
+Mate Miso Kovac,A kad se tebi opet vratim,Zwn2Yv0K_0,opet,Rgp,opet,O
+Mate Miso Kovac,A kad se tebi opet vratim,Zwn2Yv0K_0,vratim,Vmr1s,vratiti,O
+Mate Miso Kovac,Ako me ostaviš,Zwn2Yv0K_1,Ako,Cs,ako,O
+Mate Miso Kovac,Ako me ostaviš,Zwn2Yv0K_1,me,Pp1-sa,ja,O
+Mate Miso Kovac,Ako me ostaviš,Zwn2Yv0K_1,ostaviš,Vmr2s,ostaviti,O
+Mate Miso Kovac,Ako si pošla spat,Zwn2Yv0K_2,Ako,Cs,ako,O
+Mate Miso Kovac,Ako si pošla spat,Zwn2Yv0K_2,si,Var2s,biti,O
+Mate Miso Kovac,Ako si pošla spat,Zwn2Yv0K_2,pošla,Vmp-sf,poći,O
+Mate Miso Kovac,Ako si pošla spat,Zwn2Yv0K_2,spat,Vmn,spati,O
+Mate Miso Kovac,Ako srce mira nema,Zwn2Yv0K_3,Ako,Cs,ako,O
+Mate Miso Kovac,Ako srce mira nema,Zwn2Yv0K_3,srce,Ncnsn,srce,O
+Mate Miso Kovac,Ako srce mira nema,Zwn2Yv0K_3,mira,Ncmsg,mir,O
+Mate Miso Kovac,Ako srce mira nema,Zwn2Yv0K_3,nema,Vmr3s,nemati,O
+Mate Miso Kovac,Balada o vremenu,Zwn2Yv0K_4,Balada,Ncfsn,balada,O
+Mate Miso Kovac,Balada o vremenu,Zwn2Yv0K_4,o,Sl,o,O
+Mate Miso Kovac,Balada o vremenu,Zwn2Yv0K_4,vremenu,Ncnsl,vrijeme,O
+Mate Miso Kovac,Bez rastanka suza nema,Zwn2Yv0K_5,Bez,Sg,bez,O
+Mate Miso Kovac,Bez rastanka suza nema,Zwn2Yv0K_5,rastanka,Ncmsg,rastanak,O
+Mate Miso Kovac,Bez rastanka suza nema,Zwn2Yv0K_5,suza,Ncfpg,suza,O
+Mate Miso Kovac,Bez rastanka suza nema,Zwn2Yv0K_5,nema,Vmr3s,nemati,O
+Mate Miso Kovac,Bijela lađa,Zwn2Yv0K_6,Bijela,Agpfsny,bijel,O
+Mate Miso Kovac,Bijela lađa,Zwn2Yv0K_6,lađa,Ncfsn,lađa,O
+Mate Miso Kovac,"Bili, bili",Zwn2Yv0K_7,Bili,Vap-pm,biti,O
+Mate Miso Kovac,"Bili, bili",Zwn2Yv0K_7,",",Z,",",O
+Mate Miso Kovac,"Bili, bili",Zwn2Yv0K_7,bili,Vap-pm,biti,O
+Mate Miso Kovac,"Bog mi daje, Bog mi uzima",Zwn2Yv0K_8,Bog,Ncmsn,bog,B-per
+Mate Miso Kovac,"Bog mi daje, Bog mi uzima",Zwn2Yv0K_8,mi,Pp1-sd,ja,O
+Mate Miso Kovac,"Bog mi daje, Bog mi uzima",Zwn2Yv0K_8,daje,Vmr3s,davati,O
+Mate Miso Kovac,"Bog mi daje, Bog mi uzima",Zwn2Yv0K_8,",",Z,",",O
+Mate Miso Kovac,"Bog mi daje, Bog mi uzima",Zwn2Yv0K_8,Bog,Ncmsn,bog,B-per
+Mate Miso Kovac,"Bog mi daje, Bog mi uzima",Zwn2Yv0K_8,mi,Pp1-sd,ja,O
+Mate Miso Kovac,"Bog mi daje, Bog mi uzima",Zwn2Yv0K_8,uzima,Vmr3s,uzimati,O
+Mate Miso Kovac,Budi čovjek dobre volje,Zwn2Yv0K_9,Budi,Agpmsny,buditi,O
+Mate Miso Kovac,Budi čovjek dobre volje,Zwn2Yv0K_9,čovjek,Ncmsn,čovjek,O
+Mate Miso Kovac,Budi čovjek dobre volje,Zwn2Yv0K_9,dobre,Agpfsgy,dobar,O
+Mate Miso Kovac,Budi čovjek dobre volje,Zwn2Yv0K_9,volje,Ncfsg,volja,O
+Mate Miso Kovac,Croatia victoria (duet Josip Katalenić),Zwn2Yv0K_10,Croatia,Npfsn,Croatia,B-org
+Mate Miso Kovac,Croatia victoria (duet Josip Katalenić),Zwn2Yv0K_10,victoria,Npfsn,victoria,I-org
+Mate Miso Kovac,Croatia victoria (duet Josip Katalenić),Zwn2Yv0K_10,(,Z,(,O
+Mate Miso Kovac,Croatia victoria (duet Josip Katalenić),Zwn2Yv0K_10,duet,Ncmsn,duet,O
+Mate Miso Kovac,Croatia victoria (duet Josip Katalenić),Zwn2Yv0K_10,Josip,Npmsn,Josip,B-per
+Mate Miso Kovac,Croatia victoria (duet Josip Katalenić),Zwn2Yv0K_10,Katalenić,Npmsn,Katalenić,I-per
+Mate Miso Kovac,Croatia victoria (duet Josip Katalenić),Zwn2Yv0K_10,),Z,),O
+Mate Miso Kovac,Čovjek bez adrese,Zwn2Yv0K_11,Čovjek,Ncmsn,čovjek,O
+Mate Miso Kovac,Čovjek bez adrese,Zwn2Yv0K_11,bez,Sg,bez,O
+Mate Miso Kovac,Čovjek bez adrese,Zwn2Yv0K_11,adrese,Ncfsg,adresa,O
+Mate Miso Kovac,Da li je to ljubav prava,Zwn2Yv0K_12,Da,Cs,da,O
+Mate Miso Kovac,Da li je to ljubav prava,Zwn2Yv0K_12,li,Qq,li,O
+Mate Miso Kovac,Da li je to ljubav prava,Zwn2Yv0K_12,je,Var3s,biti,O
+Mate Miso Kovac,Da li je to ljubav prava,Zwn2Yv0K_12,to,Pd-nsn,taj,O
+Mate Miso Kovac,Da li je to ljubav prava,Zwn2Yv0K_12,ljubav,Ncfsn,ljubav,O
+Mate Miso Kovac,Da li je to ljubav prava,Zwn2Yv0K_12,prava,Agpfsny,prav,O
+Mate Miso Kovac,Da te nisam volio,Zwn2Yv0K_13,Da,Cs,da,O
+Mate Miso Kovac,Da te nisam volio,Zwn2Yv0K_13,te,Pp2-sa,ti,O
+Mate Miso Kovac,Da te nisam volio,Zwn2Yv0K_13,nisam,Var1s,biti,O
+Mate Miso Kovac,Da te nisam volio,Zwn2Yv0K_13,volio,Vmp-sm,voljeti,O
+Mate Miso Kovac,Dalmacija u mom oku,Zwn2Yv0K_14,Dalmacija,Npfsn,Dalmacija,B-loc
+Mate Miso Kovac,Dalmacija u mom oku,Zwn2Yv0K_14,u,Sl,u,O
+Mate Miso Kovac,Dalmacija u mom oku,Zwn2Yv0K_14,mom,Agpnsly,moj,O
+Mate Miso Kovac,Dalmacija u mom oku,Zwn2Yv0K_14,oku,Ncnsl,oko,O
+Mate Miso Kovac,Dalmaciju dišem misto zraka,Zwn2Yv0K_15,Dalmaciju,Npfsa,Dalmacija,O
+Mate Miso Kovac,Dalmaciju dišem misto zraka,Zwn2Yv0K_15,dišem,Vmr1s,disati,O
+Mate Miso Kovac,Dalmaciju dišem misto zraka,Zwn2Yv0K_15,misto,Sg,misto,O
+Mate Miso Kovac,Dalmaciju dišem misto zraka,Zwn2Yv0K_15,zraka,Ncmsg,zrak,O
+Mate Miso Kovac,Dalmatino,Zwn2Yv0K_16,Dalmatino,Agpnsny,dalmatin,O
+Mate Miso Kovac,Dalmatinske lipe oči,Zwn2Yv0K_17,Dalmatinske,Agpfsgy,dalmatinski,O
+Mate Miso Kovac,Dalmatinske lipe oči,Zwn2Yv0K_17,lipe,Ncfsg,lipa,O
+Mate Miso Kovac,Dalmatinske lipe oči,Zwn2Yv0K_17,oči,Ncfpa,oko,O
+Mate Miso Kovac,"Dobra ti večer, mati moja",Zwn2Yv0K_18,Dobra,Agpfsny,dobar,O
+Mate Miso Kovac,"Dobra ti večer, mati moja",Zwn2Yv0K_18,ti,Pp2-sd,ti,O
+Mate Miso Kovac,"Dobra ti večer, mati moja",Zwn2Yv0K_18,večer,Ncfsn,večer,O
+Mate Miso Kovac,"Dobra ti večer, mati moja",Zwn2Yv0K_18,",",Z,",",O
+Mate Miso Kovac,"Dobra ti večer, mati moja",Zwn2Yv0K_18,mati,Vmn,mati,O
+Mate Miso Kovac,"Dobra ti večer, mati moja",Zwn2Yv0K_18,moja,Ps1fsn,moj,O
+Mate Miso Kovac,"Drugi joj raspliće kosu, a ja je volim",Zwn2Yv0K_19,Drugi,Mlomsn,drugi,O
+Mate Miso Kovac,"Drugi joj raspliće kosu, a ja je volim",Zwn2Yv0K_19,joj,Pp3fsd,on,O
+Mate Miso Kovac,"Drugi joj raspliće kosu, a ja je volim",Zwn2Yv0K_19,raspliće,Vmr3s,rasplitati,O
+Mate Miso Kovac,"Drugi joj raspliće kosu, a ja je volim",Zwn2Yv0K_19,kosu,Ncfsa,kosa,O
+Mate Miso Kovac,"Drugi joj raspliće kosu, a ja je volim",Zwn2Yv0K_19,",",Z,",",O
+Mate Miso Kovac,"Drugi joj raspliće kosu, a ja je volim",Zwn2Yv0K_19,a,Cc,a,O
+Mate Miso Kovac,"Drugi joj raspliće kosu, a ja je volim",Zwn2Yv0K_19,ja,Pp1-sn,ja,O
+Mate Miso Kovac,"Drugi joj raspliće kosu, a ja je volim",Zwn2Yv0K_19,je,Pp3fsa,on,O
+Mate Miso Kovac,"Drugi joj raspliće kosu, a ja je volim",Zwn2Yv0K_19,volim,Vmr1s,voljeti,O
+Mate Miso Kovac,Eviva l'amor,Zwn2Yv0K_20,Eviva,Npfsn,Eviva,B-per
+Mate Miso Kovac,Eviva l'amor,Zwn2Yv0K_20,l'amor,Npfsn,l'amor,I-per
+Mate Miso Kovac,Gdje su sada one noći,Zwn2Yv0K_21,Gdje,Cs,gdje,O
+Mate Miso Kovac,Gdje su sada one noći,Zwn2Yv0K_21,su,Var3p,biti,O
+Mate Miso Kovac,Gdje su sada one noći,Zwn2Yv0K_21,sada,Rgp,sada,O
+Mate Miso Kovac,Gdje su sada one noći,Zwn2Yv0K_21,one,Pd-fsg,onaj,O
+Mate Miso Kovac,Gdje su sada one noći,Zwn2Yv0K_21,noći,Ncfsg,noć,O
+Mate Miso Kovac,Grobovi im nikad oprostiti neće,Zwn2Yv0K_22,Grobovi,Ncmpn,grob,O
+Mate Miso Kovac,Grobovi im nikad oprostiti neće,Zwn2Yv0K_22,im,Pp3-pd,oni,O
+Mate Miso Kovac,Grobovi im nikad oprostiti neće,Zwn2Yv0K_22,nikad,Rgp,nikad,O
+Mate Miso Kovac,Grobovi im nikad oprostiti neće,Zwn2Yv0K_22,oprostiti,Vmn,oprostiti,O
+Mate Miso Kovac,Grobovi im nikad oprostiti neće,Zwn2Yv0K_22,neće,Var3s,htjeti,O
+Mate Miso Kovac,"Hej, živote, što me snađe",Zwn2Yv0K_23,Hej,I,hej,O
+Mate Miso Kovac,"Hej, živote, što me snađe",Zwn2Yv0K_23,",",Z,",",O
+Mate Miso Kovac,"Hej, živote, što me snađe",Zwn2Yv0K_23,živote,Ncmpa,život,O
+Mate Miso Kovac,"Hej, živote, što me snađe",Zwn2Yv0K_23,",",Z,",",O
+Mate Miso Kovac,"Hej, živote, što me snađe",Zwn2Yv0K_23,što,Pi3n-n,što,O
+Mate Miso Kovac,"Hej, živote, što me snađe",Zwn2Yv0K_23,me,Pp1-sa,ja,O
+Mate Miso Kovac,"Hej, živote, što me snađe",Zwn2Yv0K_23,snađe,Vmr3s,snaći,O
+Mate Miso Kovac,I dođe dan,Zwn2Yv0K_24,I,Cc,i,O
+Mate Miso Kovac,I dođe dan,Zwn2Yv0K_24,dođe,Vmr3s,doći,O
+Mate Miso Kovac,I dođe dan,Zwn2Yv0K_24,dan,Ncmsan,dan,O
+Mate Miso Kovac,Idemo dalje pjesmo moja,Zwn2Yv0K_25,Idemo,Vmr1p,ići,O
+Mate Miso Kovac,Idemo dalje pjesmo moja,Zwn2Yv0K_25,dalje,Rgc,daleko,O
+Mate Miso Kovac,Idemo dalje pjesmo moja,Zwn2Yv0K_25,pjesmo,Cs,pjesma,O
+Mate Miso Kovac,Idemo dalje pjesmo moja,Zwn2Yv0K_25,moja,Ps1fsn,moj,O
+Mate Miso Kovac,Imoćani čuvaju Hrvate,Zwn2Yv0K_26,Imoćani,Npmpn,Imoćan,B-per
+Mate Miso Kovac,Imoćani čuvaju Hrvate,Zwn2Yv0K_26,čuvaju,Vmr3p,čuvati,O
+Mate Miso Kovac,Imoćani čuvaju Hrvate,Zwn2Yv0K_26,Hrvate,Npmpa,Hrvat,B-per
+Mate Miso Kovac,Iz tvojih rana izrasti će cvijeće,Zwn2Yv0K_27,Iz,Sg,iz,O
+Mate Miso Kovac,Iz tvojih rana izrasti će cvijeće,Zwn2Yv0K_27,tvojih,Agpfpgy,tvoj,O
+Mate Miso Kovac,Iz tvojih rana izrasti će cvijeće,Zwn2Yv0K_27,rana,Ncfpg,rana,O
+Mate Miso Kovac,Iz tvojih rana izrasti će cvijeće,Zwn2Yv0K_27,izrasti,Vmn,izrasti,O
+Mate Miso Kovac,Iz tvojih rana izrasti će cvijeće,Zwn2Yv0K_27,će,Var3s,htjeti,O
+Mate Miso Kovac,Iz tvojih rana izrasti će cvijeće,Zwn2Yv0K_27,cvijeće,Ncnsn,cvijeće,O
+Mate Miso Kovac,Izgubljena ljubav,Zwn2Yv0K_28,Izgubljena,Appfsny,izgubiti,O
+Mate Miso Kovac,Izgubljena ljubav,Zwn2Yv0K_28,ljubav,Ncfsn,ljubav,O
+Mate Miso Kovac,Ja ne mogu drugo nego da je volim,Zwn2Yv0K_29,Ja,Pp1-sn,ja,O
+Mate Miso Kovac,Ja ne mogu drugo nego da je volim,Zwn2Yv0K_29,ne,Qz,ne,O
+Mate Miso Kovac,Ja ne mogu drugo nego da je volim,Zwn2Yv0K_29,mogu,Vmr1s,moći,O
+Mate Miso Kovac,Ja ne mogu drugo nego da je volim,Zwn2Yv0K_29,drugo,Mlonsa,drugi,O
+Mate Miso Kovac,Ja ne mogu drugo nego da je volim,Zwn2Yv0K_29,nego,Cc,nego,O
+Mate Miso Kovac,Ja ne mogu drugo nego da je volim,Zwn2Yv0K_29,da,Cs,da,O
+Mate Miso Kovac,Ja ne mogu drugo nego da je volim,Zwn2Yv0K_29,je,Pp3fsa,on,O
+Mate Miso Kovac,Ja ne mogu drugo nego da je volim,Zwn2Yv0K_29,volim,Vmr1s,voljeti,O
+Mate Miso Kovac,Ja nikog nemam,Zwn2Yv0K_30,Ja,Pp1-sn,ja,O
+Mate Miso Kovac,Ja nikog nemam,Zwn2Yv0K_30,nikog,Pi3m-a,nitko,O
+Mate Miso Kovac,Ja nikog nemam,Zwn2Yv0K_30,nemam,Vmr1s,nemati,O
+Mate Miso Kovac,Ja sam kovač svoje sreće,Zwn2Yv0K_31,Ja,Pp1-sn,ja,O
+Mate Miso Kovac,Ja sam kovač svoje sreće,Zwn2Yv0K_31,sam,Var1s,biti,O
+Mate Miso Kovac,Ja sam kovač svoje sreće,Zwn2Yv0K_31,kovač,Ncmsn,kovač,O
+Mate Miso Kovac,Ja sam kovač svoje sreće,Zwn2Yv0K_31,svoje,Px-fsg,svoj,O
+Mate Miso Kovac,Ja sam kovač svoje sreće,Zwn2Yv0K_31,sreće,Ncfsg,sreća,O
+Mate Miso Kovac,Jedan dan života,Zwn2Yv0K_32,Jedan,Mlcmsn,jedan,O
+Mate Miso Kovac,Jedan dan života,Zwn2Yv0K_32,dan,Ncmsn,dan,O
+Mate Miso Kovac,Jedan dan života,Zwn2Yv0K_32,života,Ncmsg,život,O
+Mate Miso Kovac,Jemala sam dragoga,Zwn2Yv0K_33,Jemala,Vmp-sf,jemati,O
+Mate Miso Kovac,Jemala sam dragoga,Zwn2Yv0K_33,sam,Var1s,biti,O
+Mate Miso Kovac,Jemala sam dragoga,Zwn2Yv0K_33,dragoga,Agpnsgy,drag,O
+Mate Miso Kovac,"Još se držim, još se ne dam",Zwn2Yv0K_34,Još,Rgp,još,O
+Mate Miso Kovac,"Još se držim, još se ne dam",Zwn2Yv0K_34,se,Px--sa,sebe,O
+Mate Miso Kovac,"Još se držim, još se ne dam",Zwn2Yv0K_34,držim,Vmr1s,držati,O
+Mate Miso Kovac,"Još se držim, još se ne dam",Zwn2Yv0K_34,",",Z,",",O
+Mate Miso Kovac,"Još se držim, još se ne dam",Zwn2Yv0K_34,još,Rgp,još,O
+Mate Miso Kovac,"Još se držim, još se ne dam",Zwn2Yv0K_34,se,Px--sa,sebe,O
+Mate Miso Kovac,"Još se držim, još se ne dam",Zwn2Yv0K_34,ne,Qz,ne,O
+Mate Miso Kovac,"Još se držim, još se ne dam",Zwn2Yv0K_34,dam,Vmr1s,dati,O
+Mate Miso Kovac,Kad čuješ pjesmu o svom rodnom kraju,Zwn2Yv0K_35,Kad,Cs,kad,O
+Mate Miso Kovac,Kad čuješ pjesmu o svom rodnom kraju,Zwn2Yv0K_35,čuješ,Vmr2s,čuti,O
+Mate Miso Kovac,Kad čuješ pjesmu o svom rodnom kraju,Zwn2Yv0K_35,pjesmu,Ncfsa,pjesma,O
+Mate Miso Kovac,Kad čuješ pjesmu o svom rodnom kraju,Zwn2Yv0K_35,o,Sl,o,O
+Mate Miso Kovac,Kad čuješ pjesmu o svom rodnom kraju,Zwn2Yv0K_35,svom,Px-msl,svoj,O
+Mate Miso Kovac,Kad čuješ pjesmu o svom rodnom kraju,Zwn2Yv0K_35,rodnom,Agpmsly,rodan,O
+Mate Miso Kovac,Kad čuješ pjesmu o svom rodnom kraju,Zwn2Yv0K_35,kraju,Ncmsl,kraj,O
+Mate Miso Kovac,"Kad jednom odeš, ne vraćaj se više",Zwn2Yv0K_36,Kad,Cs,kad,O
+Mate Miso Kovac,"Kad jednom odeš, ne vraćaj se više",Zwn2Yv0K_36,jednom,Rgp,jednom,O
+Mate Miso Kovac,"Kad jednom odeš, ne vraćaj se više",Zwn2Yv0K_36,odeš,Vmr2s,otići,O
+Mate Miso Kovac,"Kad jednom odeš, ne vraćaj se više",Zwn2Yv0K_36,",",Z,",",O
+Mate Miso Kovac,"Kad jednom odeš, ne vraćaj se više",Zwn2Yv0K_36,ne,Qz,ne,O
+Mate Miso Kovac,"Kad jednom odeš, ne vraćaj se više",Zwn2Yv0K_36,vraćaj,Vmm2s,vraćati,O
+Mate Miso Kovac,"Kad jednom odeš, ne vraćaj se više",Zwn2Yv0K_36,se,Px--sa,sebe,O
+Mate Miso Kovac,"Kad jednom odeš, ne vraćaj se više",Zwn2Yv0K_36,više,Rgc,mnogo,O
+Mate Miso Kovac,Kad plačeš i kad se smiješ,Zwn2Yv0K_37,Kad,Cs,kad,O
+Mate Miso Kovac,Kad plačeš i kad se smiješ,Zwn2Yv0K_37,plačeš,Vmr2s,plakati,O
+Mate Miso Kovac,Kad plačeš i kad se smiješ,Zwn2Yv0K_37,i,Cc,i,O
+Mate Miso Kovac,Kad plačeš i kad se smiješ,Zwn2Yv0K_37,kad,Cs,kad,O
+Mate Miso Kovac,Kad plačeš i kad se smiješ,Zwn2Yv0K_37,se,Px--sa,sebe,O
+Mate Miso Kovac,Kad plačeš i kad se smiješ,Zwn2Yv0K_37,smiješ,Vmr2s,smjeti,O
+Mate Miso Kovac,Kap od mora,Zwn2Yv0K_38,Kap,Ncfsn,kap,O
+Mate Miso Kovac,Kap od mora,Zwn2Yv0K_38,od,Sg,od,O
+Mate Miso Kovac,Kap od mora,Zwn2Yv0K_38,mora,Ncnsg,more,O
+Mate Miso Kovac,Košulja od zlata,Zwn2Yv0K_39,Košulja,Ncfsn,košulja,O
+Mate Miso Kovac,Košulja od zlata,Zwn2Yv0K_39,od,Sg,od,O
+Mate Miso Kovac,Košulja od zlata,Zwn2Yv0K_39,zlata,Ncnsg,zlato,O
+Mate Miso Kovac,Kralju nebeski,Zwn2Yv0K_40,Kralju,Ncmsl,kralj,O
+Mate Miso Kovac,Kralju nebeski,Zwn2Yv0K_40,nebeski,Agpmsny,nebeski,O
+Mate Miso Kovac,Laka ti noć,Zwn2Yv0K_41,Laka,Agpfsny,lak,O
+Mate Miso Kovac,Laka ti noć,Zwn2Yv0K_41,ti,Pp2-sd,ti,O
+Mate Miso Kovac,Laka ti noć,Zwn2Yv0K_41,noć,Ncfsn,noć,O
+Mate Miso Kovac,Marija,Zwn2Yv0K_42,Marija,Npfsn,Marija,B-per
+Mate Miso Kovac,Mi smo se voljeli,Zwn2Yv0K_43,Mi,Pp1-pn,mi,O
+Mate Miso Kovac,Mi smo se voljeli,Zwn2Yv0K_43,smo,Var1p,biti,O
+Mate Miso Kovac,Mi smo se voljeli,Zwn2Yv0K_43,se,Px--sa,sebe,O
+Mate Miso Kovac,Mi smo se voljeli,Zwn2Yv0K_43,voljeli,Vmp-pm,voljeti,O
+Mate Miso Kovac,Moja Kristina,Zwn2Yv0K_44,Moja,Ps1fsn,moj,O
+Mate Miso Kovac,Moja Kristina,Zwn2Yv0K_44,Kristina,Ncfsn,kristina,B-per
+Mate Miso Kovac,Moram li da umrem,Zwn2Yv0K_45,Moram,Vmr1s,morati,O
+Mate Miso Kovac,Moram li da umrem,Zwn2Yv0K_45,li,Qq,li,O
+Mate Miso Kovac,Moram li da umrem,Zwn2Yv0K_45,da,Cs,da,O
+Mate Miso Kovac,Moram li da umrem,Zwn2Yv0K_45,umrem,Vmr1s,umrijeti,O
+Mate Miso Kovac,Možda smo se mogli zagrliti jače,Zwn2Yv0K_46,Možda,Rgp,možda,O
+Mate Miso Kovac,Možda smo se mogli zagrliti jače,Zwn2Yv0K_46,smo,Var1p,biti,O
+Mate Miso Kovac,Možda smo se mogli zagrliti jače,Zwn2Yv0K_46,se,Px--sa,sebe,O
+Mate Miso Kovac,Možda smo se mogli zagrliti jače,Zwn2Yv0K_46,mogli,Vmp-pm,moći,O
+Mate Miso Kovac,Možda smo se mogli zagrliti jače,Zwn2Yv0K_46,zagrliti,Vmn,zagrliti,O
+Mate Miso Kovac,Možda smo se mogli zagrliti jače,Zwn2Yv0K_46,jače,Rgc,jako,O
+Mate Miso Kovac,Najljepše su oči moje majke,Zwn2Yv0K_47,Najljepše,Agsnsny,lijep,O
+Mate Miso Kovac,Najljepše su oči moje majke,Zwn2Yv0K_47,su,Var3p,biti,O
+Mate Miso Kovac,Najljepše su oči moje majke,Zwn2Yv0K_47,oči,Ncfpn,oko,O
+Mate Miso Kovac,Najljepše su oči moje majke,Zwn2Yv0K_47,moje,Agpfpny,moj,O
+Mate Miso Kovac,Najljepše su oči moje majke,Zwn2Yv0K_47,majke,Ncfpn,majka,O
+Mate Miso Kovac,Ne mogu da te zaboravim,Zwn2Yv0K_48,Ne,Qz,ne,O
+Mate Miso Kovac,Ne mogu da te zaboravim,Zwn2Yv0K_48,mogu,Vmr3p,moći,O
+Mate Miso Kovac,Ne mogu da te zaboravim,Zwn2Yv0K_48,da,Cs,da,O
+Mate Miso Kovac,Ne mogu da te zaboravim,Zwn2Yv0K_48,te,Pp2-sa,ti,O
+Mate Miso Kovac,Ne mogu da te zaboravim,Zwn2Yv0K_48,zaboravim,Vmr1s,zaboraviti,O
+Mate Miso Kovac,Ne reci kuda ideš,Zwn2Yv0K_49,Ne,Qz,ne,O
+Mate Miso Kovac,Ne reci kuda ideš,Zwn2Yv0K_49,reci,Vmm2s,reći,O
+Mate Miso Kovac,Ne reci kuda ideš,Zwn2Yv0K_49,kuda,Rgp,kuda,O
+Mate Miso Kovac,Ne reci kuda ideš,Zwn2Yv0K_49,ideš,Vmr2s,ići,O
+Mate Miso Kovac,Ne traži da ti budem prijatelj,Zwn2Yv0K_50,Ne,Qz,ne,O
+Mate Miso Kovac,Ne traži da ti budem prijatelj,Zwn2Yv0K_50,traži,Vmr3s,tražiti,O
+Mate Miso Kovac,Ne traži da ti budem prijatelj,Zwn2Yv0K_50,da,Cs,da,O
+Mate Miso Kovac,Ne traži da ti budem prijatelj,Zwn2Yv0K_50,ti,Pp2-sd,ti,O
+Mate Miso Kovac,Ne traži da ti budem prijatelj,Zwn2Yv0K_50,budem,Agpmsny,biti,O
+Mate Miso Kovac,Ne traži da ti budem prijatelj,Zwn2Yv0K_50,prijatelj,Ncmsn,prijatelj,O
+Mate Miso Kovac,Nebu puštam bijelu pticu,Zwn2Yv0K_51,Nebu,Ncnsl,nebo,O
+Mate Miso Kovac,Nebu puštam bijelu pticu,Zwn2Yv0K_51,puštam,Vmr1s,puštati,O
+Mate Miso Kovac,Nebu puštam bijelu pticu,Zwn2Yv0K_51,bijelu,Agpfsay,bijel,O
+Mate Miso Kovac,Nebu puštam bijelu pticu,Zwn2Yv0K_51,pticu,Ncfsa,ptica,O
+Mate Miso Kovac,Nek teku sve vode,Zwn2Yv0K_52,Nek,Qo,nek,O
+Mate Miso Kovac,Nek teku sve vode,Zwn2Yv0K_52,teku,Vmr3p,teći,O
+Mate Miso Kovac,Nek teku sve vode,Zwn2Yv0K_52,sve,Agpfpny,sav,O
+Mate Miso Kovac,Nek teku sve vode,Zwn2Yv0K_52,vode,Ncfpn,voda,O
+Mate Miso Kovac,Neka stane život cijeli,Zwn2Yv0K_53,Neka,Qo,neka,O
+Mate Miso Kovac,Neka stane život cijeli,Zwn2Yv0K_53,stane,Vmr3s,stati,O
+Mate Miso Kovac,Neka stane život cijeli,Zwn2Yv0K_53,život,Ncmsan,život,O
+Mate Miso Kovac,Neka stane život cijeli,Zwn2Yv0K_53,cijeli,Agpmsayn,cijel,O
+Mate Miso Kovac,Ni'ko ne zna kako mi je,Zwn2Yv0K_54,Ni'ko,Npmsn,Ni'ko,B-per
+Mate Miso Kovac,Ni'ko ne zna kako mi je,Zwn2Yv0K_54,ne,Qz,ne,O
+Mate Miso Kovac,Ni'ko ne zna kako mi je,Zwn2Yv0K_54,zna,Vmr3s,znati,O
+Mate Miso Kovac,Ni'ko ne zna kako mi je,Zwn2Yv0K_54,kako,Cs,kako,O
+Mate Miso Kovac,Ni'ko ne zna kako mi je,Zwn2Yv0K_54,mi,Pp1-sd,ja,O
+Mate Miso Kovac,Ni'ko ne zna kako mi je,Zwn2Yv0K_54,je,Var3s,biti,O
+Mate Miso Kovac,Nije vrijeme da se rastanemo,Zwn2Yv0K_55,Nije,Var3s,biti,O
+Mate Miso Kovac,Nije vrijeme da se rastanemo,Zwn2Yv0K_55,vrijeme,Ncnsn,vrijeme,O
+Mate Miso Kovac,Nije vrijeme da se rastanemo,Zwn2Yv0K_55,da,Cs,da,O
+Mate Miso Kovac,Nije vrijeme da se rastanemo,Zwn2Yv0K_55,se,Px--sa,sebe,O
+Mate Miso Kovac,Nije vrijeme da se rastanemo,Zwn2Yv0K_55,rastanemo,Vmr1p,rastati,O
+Mate Miso Kovac,Nisam ja varošanka,Zwn2Yv0K_56,Nisam,Var1s,biti,O
+Mate Miso Kovac,Nisam ja varošanka,Zwn2Yv0K_56,ja,Pp1-sn,ja,O
+Mate Miso Kovac,Nisam ja varošanka,Zwn2Yv0K_56,varošanka,Agpfsny,varošanki,O
+Mate Miso Kovac,Noćas ćemo zemlji ko materi reći,Zwn2Yv0K_57,Noćas,Rgp,noćas,O
+Mate Miso Kovac,Noćas ćemo zemlji ko materi reći,Zwn2Yv0K_57,ćemo,Var1p,htjeti,O
+Mate Miso Kovac,Noćas ćemo zemlji ko materi reći,Zwn2Yv0K_57,zemlji,Ncfsl,zemlja,O
+Mate Miso Kovac,Noćas ćemo zemlji ko materi reći,Zwn2Yv0K_57,ko,Agpfpgy,ko,O
+Mate Miso Kovac,Noćas ćemo zemlji ko materi reći,Zwn2Yv0K_57,materi,Ncfpg,mater,O
+Mate Miso Kovac,Noćas ćemo zemlji ko materi reći,Zwn2Yv0K_57,reći,Vmn,reći,O
+Mate Miso Kovac,Obala mojih snova,Zwn2Yv0K_58,Obala,Ncfsn,obala,O
+Mate Miso Kovac,Obala mojih snova,Zwn2Yv0K_58,mojih,Agpmpgy,moj,O
+Mate Miso Kovac,Obala mojih snova,Zwn2Yv0K_58,snova,Ncmpg,san,O
+Mate Miso Kovac,Od kavane do kavane,Zwn2Yv0K_59,Od,Sg,od,O
+Mate Miso Kovac,Od kavane do kavane,Zwn2Yv0K_59,kavane,Ncfsg,kavana,O
+Mate Miso Kovac,Od kavane do kavane,Zwn2Yv0K_59,do,Sg,do,O
+Mate Miso Kovac,Od kavane do kavane,Zwn2Yv0K_59,kavane,Ncfsg,kavana,O
+Mate Miso Kovac,Odlaze sanjari,Zwn2Yv0K_60,Odlaze,Vmr3p,odlaziti,O
+Mate Miso Kovac,Odlaze sanjari,Zwn2Yv0K_60,sanjari,Ncmpn,sanjar,O
+Mate Miso Kovac,Odvest ću te na vjenčanje,Zwn2Yv0K_61,Odvest,Vmn,odvesti,O
+Mate Miso Kovac,Odvest ću te na vjenčanje,Zwn2Yv0K_61,ću,Var1s,htjeti,O
+Mate Miso Kovac,Odvest ću te na vjenčanje,Zwn2Yv0K_61,te,Pp2-sa,ti,O
+Mate Miso Kovac,Odvest ću te na vjenčanje,Zwn2Yv0K_61,na,Sa,na,O
+Mate Miso Kovac,Odvest ću te na vjenčanje,Zwn2Yv0K_61,vjenčanje,Ncnsa,vjenčanje,O
+Mate Miso Kovac,"Oprosti, ne mogu doći",Zwn2Yv0K_62,Oprosti,Ncmpn,oprost,O
+Mate Miso Kovac,"Oprosti, ne mogu doći",Zwn2Yv0K_62,",",Z,",",O
+Mate Miso Kovac,"Oprosti, ne mogu doći",Zwn2Yv0K_62,ne,Qz,ne,O
+Mate Miso Kovac,"Oprosti, ne mogu doći",Zwn2Yv0K_62,mogu,Vmr3p,moći,O
+Mate Miso Kovac,"Oprosti, ne mogu doći",Zwn2Yv0K_62,doći,Vmn,doći,O
+Mate Miso Kovac,Ostala si uvijek ista,Zwn2Yv0K_63,Ostala,Vmp-sf,ostati,O
+Mate Miso Kovac,Ostala si uvijek ista,Zwn2Yv0K_63,si,Var2s,biti,O
+Mate Miso Kovac,Ostala si uvijek ista,Zwn2Yv0K_63,uvijek,Rgp,uvijek,O
+Mate Miso Kovac,Ostala si uvijek ista,Zwn2Yv0K_63,ista,Agpfsny,isti,O
+Mate Miso Kovac,Otvori srce,Zwn2Yv0K_64,Otvori,Vmr3s,otvoriti,O
+Mate Miso Kovac,Otvori srce,Zwn2Yv0K_64,srce,Ncnsa,srce,O
+Mate Miso Kovac,Ovo je naša noć,Zwn2Yv0K_65,Ovo,Pd-nsn,ovaj,O
+Mate Miso Kovac,Ovo je naša noć,Zwn2Yv0K_65,je,Var3s,biti,O
+Mate Miso Kovac,Ovo je naša noć,Zwn2Yv0K_65,naša,Ps1fsn,naš,O
+Mate Miso Kovac,Ovo je naša noć,Zwn2Yv0K_65,noć,Ncfsn,noć,O
+Mate Miso Kovac,Pjeni se more,Zwn2Yv0K_66,Pjeni,Vmr3s,pjeniti,O
+Mate Miso Kovac,Pjeni se more,Zwn2Yv0K_66,se,Px--sa,sebe,O
+Mate Miso Kovac,Pjeni se more,Zwn2Yv0K_66,more,Ncnsn,more,O
+Mate Miso Kovac,Plesala je samo jedno ljeto,Zwn2Yv0K_67,Plesala,Vmp-sf,plesati,O
+Mate Miso Kovac,Plesala je samo jedno ljeto,Zwn2Yv0K_67,je,Var3s,biti,O
+Mate Miso Kovac,Plesala je samo jedno ljeto,Zwn2Yv0K_67,samo,Rgp,samo,O
+Mate Miso Kovac,Plesala je samo jedno ljeto,Zwn2Yv0K_67,jedno,Agpnsny,jedan,O
+Mate Miso Kovac,Plesala je samo jedno ljeto,Zwn2Yv0K_67,ljeto,Ncnsn,ljeto,O
+Mate Miso Kovac,Ponoćna serenada,Zwn2Yv0K_68,Ponoćna,Agpfsny,ponoćni,O
+Mate Miso Kovac,Ponoćna serenada,Zwn2Yv0K_68,serenada,Ncfsn,serenada,O
+Mate Miso Kovac,Ponovo me voli,Zwn2Yv0K_69,Ponovo,Rgp,ponovo,O
+Mate Miso Kovac,Ponovo me voli,Zwn2Yv0K_69,me,Pp1-sa,ja,O
+Mate Miso Kovac,Ponovo me voli,Zwn2Yv0K_69,voli,Vmr3s,voljeti,O
+Mate Miso Kovac,Posljednje kiše,Zwn2Yv0K_70,Posljednje,Agpfpny,posljednji,O
+Mate Miso Kovac,Posljednje kiše,Zwn2Yv0K_70,kiše,Ncfpn,kiša,O
+Mate Miso Kovac,Pozdravi mi ženu plave kose,Zwn2Yv0K_71,Pozdravi,Vmm2s,pozdraviti,O
+Mate Miso Kovac,Pozdravi mi ženu plave kose,Zwn2Yv0K_71,mi,Pp1-sd,ja,O
+Mate Miso Kovac,Pozdravi mi ženu plave kose,Zwn2Yv0K_71,ženu,Ncfsa,žena,O
+Mate Miso Kovac,Pozdravi mi ženu plave kose,Zwn2Yv0K_71,plave,Agpfsgy,plav,O
+Mate Miso Kovac,Pozdravi mi ženu plave kose,Zwn2Yv0K_71,kose,Ncfsg,kosa,O
+Mate Miso Kovac,Propinju se dušom jedra,Zwn2Yv0K_72,Propinju,Vmr3p,propinjati,O
+Mate Miso Kovac,Propinju se dušom jedra,Zwn2Yv0K_72,se,Px--sa,sebe,O
+Mate Miso Kovac,Propinju se dušom jedra,Zwn2Yv0K_72,dušom,Ncfsi,duša,O
+Mate Miso Kovac,Propinju se dušom jedra,Zwn2Yv0K_72,jedra,Ncnsg,jedro,O
+Mate Miso Kovac,Ranjeno je srce moje,Zwn2Yv0K_73,Ranjeno,Appnsny,raniti,O
+Mate Miso Kovac,Ranjeno je srce moje,Zwn2Yv0K_73,je,Var3s,biti,O
+Mate Miso Kovac,Ranjeno je srce moje,Zwn2Yv0K_73,srce,Ncnsn,srce,O
+Mate Miso Kovac,Ranjeno je srce moje,Zwn2Yv0K_73,moje,Ps1fsg,moj,O
+Mate Miso Kovac,Romantika,Zwn2Yv0K_74,Romantika,Ncfsn,romantika,O
+Mate Miso Kovac,Sad živim sam,Zwn2Yv0K_75,Sad,Rgp,sad,O
+Mate Miso Kovac,Sad živim sam,Zwn2Yv0K_75,živim,Vmr1s,živjeti,O
+Mate Miso Kovac,Sad živim sam,Zwn2Yv0K_75,sam,Agpmsnn,sam,O
+Mate Miso Kovac,Samo nas nebo rastavit može,Zwn2Yv0K_76,Samo,Rgp,samo,O
+Mate Miso Kovac,Samo nas nebo rastavit može,Zwn2Yv0K_76,nas,Pp1-pa,mi,O
+Mate Miso Kovac,Samo nas nebo rastavit može,Zwn2Yv0K_76,nebo,Ncnsn,nebo,O
+Mate Miso Kovac,Samo nas nebo rastavit može,Zwn2Yv0K_76,rastavit,Vmn,rastaviti,O
+Mate Miso Kovac,Samo nas nebo rastavit može,Zwn2Yv0K_76,može,Vmr3s,moći,O
+Mate Miso Kovac,Sićaš li se Splita grada,Zwn2Yv0K_77,Sićaš,Ncmsn,sićaš,O
+Mate Miso Kovac,Sićaš li se Splita grada,Zwn2Yv0K_77,li,Cs,li,O
+Mate Miso Kovac,Sićaš li se Splita grada,Zwn2Yv0K_77,se,Px--sa,sebe,O
+Mate Miso Kovac,Sićaš li se Splita grada,Zwn2Yv0K_77,Splita,Npmsg,Split,B-loc
+Mate Miso Kovac,Sićaš li se Splita grada,Zwn2Yv0K_77,grada,Ncmsg,grad,I-loc
+Mate Miso Kovac,"Slušaj, majko, moju pjesmu",Zwn2Yv0K_78,Slušaj,Vmm2s,slušati,O
+Mate Miso Kovac,"Slušaj, majko, moju pjesmu",Zwn2Yv0K_78,",",Z,",",O
+Mate Miso Kovac,"Slušaj, majko, moju pjesmu",Zwn2Yv0K_78,majko,Ncfsv,majka,O
+Mate Miso Kovac,"Slušaj, majko, moju pjesmu",Zwn2Yv0K_78,",",Z,",",O
+Mate Miso Kovac,"Slušaj, majko, moju pjesmu",Zwn2Yv0K_78,moju,Ps1fsa,moj,O
+Mate Miso Kovac,"Slušaj, majko, moju pjesmu",Zwn2Yv0K_78,pjesmu,Ncfsa,pjesma,O
+Mate Miso Kovac,Suza nebeska,Zwn2Yv0K_79,Suza,Ncfsn,suza,O
+Mate Miso Kovac,Suza nebeska,Zwn2Yv0K_79,nebeska,Agpfsny,nebeski,O
+Mate Miso Kovac,Sve što traje,Zwn2Yv0K_80,Sve,Agpnsny,sav,O
+Mate Miso Kovac,Sve što traje,Zwn2Yv0K_80,što,Pi3n-a,što,O
+Mate Miso Kovac,Sve što traje,Zwn2Yv0K_80,traje,Vmr3s,trajati,O
+Mate Miso Kovac,Svirajte mi marijači,Zwn2Yv0K_81,Svirajte,Vmm2p,svirati,O
+Mate Miso Kovac,Svirajte mi marijači,Zwn2Yv0K_81,mi,Pp1-sd,ja,O
+Mate Miso Kovac,Svirajte mi marijači,Zwn2Yv0K_81,marijači,Ncmpn,marijač,O
+Mate Miso Kovac,Šibenske kale,Zwn2Yv0K_82,Šibenske,Agpfpny,šibenski,O
+Mate Miso Kovac,Šibenske kale,Zwn2Yv0K_82,kale,Ncfpn,kala,O
+Mate Miso Kovac,Što nas tako veže,Zwn2Yv0K_83,Što,Pi3n-n,što,O
+Mate Miso Kovac,Što nas tako veže,Zwn2Yv0K_83,nas,Pp1-pa,mi,O
+Mate Miso Kovac,Što nas tako veže,Zwn2Yv0K_83,tako,Rgp,tako,O
+Mate Miso Kovac,Što nas tako veže,Zwn2Yv0K_83,veže,Vmr3s,vezati,O
+Mate Miso Kovac,Ti gitaro samo sviraj,Zwn2Yv0K_84,Ti,Pd-mpn,taj,O
+Mate Miso Kovac,Ti gitaro samo sviraj,Zwn2Yv0K_84,gitaro,Ncfsv,gitara,O
+Mate Miso Kovac,Ti gitaro samo sviraj,Zwn2Yv0K_84,samo,Rgp,samo,O
+Mate Miso Kovac,Ti gitaro samo sviraj,Zwn2Yv0K_84,sviraj,Vmm2s,svirati,O
+Mate Miso Kovac,Ti si pjesma moje duše,Zwn2Yv0K_85,Ti,Pp2-sn,ti,O
+Mate Miso Kovac,Ti si pjesma moje duše,Zwn2Yv0K_85,si,Var2s,biti,O
+Mate Miso Kovac,Ti si pjesma moje duše,Zwn2Yv0K_85,pjesma,Ncfsn,pjesma,O
+Mate Miso Kovac,Ti si pjesma moje duše,Zwn2Yv0K_85,moje,Ps1fsg,moj,O
+Mate Miso Kovac,Ti si pjesma moje duše,Zwn2Yv0K_85,duše,Ncfsg,duša,O
+Mate Miso Kovac,Tiha noć,Zwn2Yv0K_86,Tiha,Agpfsny,tih,O
+Mate Miso Kovac,Tiha noć,Zwn2Yv0K_86,noć,Ncfsn,noć,O
+Mate Miso Kovac,Tri suze,Zwn2Yv0K_87,Tri,Mlc,tri,O
+Mate Miso Kovac,Tri suze,Zwn2Yv0K_87,suze,Ncfsg,suza,O
+Mate Miso Kovac,Tvoje lice,Zwn2Yv0K_88,Tvoje,Agpnsny,tvoj,O
+Mate Miso Kovac,Tvoje lice,Zwn2Yv0K_88,lice,Ncnsn,lice,O
+Mate Miso Kovac,Uvijek ima nešto dalje,Zwn2Yv0K_89,Uvijek,Rgp,uvijek,O
+Mate Miso Kovac,Uvijek ima nešto dalje,Zwn2Yv0K_89,ima,Vmr3s,imati,O
+Mate Miso Kovac,Uvijek ima nešto dalje,Zwn2Yv0K_89,nešto,Qo,nešto,O
+Mate Miso Kovac,Uvijek ima nešto dalje,Zwn2Yv0K_89,dalje,Rgc,daleko,O
+Mate Miso Kovac,Više od života ne mogu ti dati,Zwn2Yv0K_90,Više,Rgc,mnogo,O
+Mate Miso Kovac,Više od života ne mogu ti dati,Zwn2Yv0K_90,od,Sg,od,O
+Mate Miso Kovac,Više od života ne mogu ti dati,Zwn2Yv0K_90,života,Ncmsg,život,O
+Mate Miso Kovac,Više od života ne mogu ti dati,Zwn2Yv0K_90,ne,Qz,ne,O
+Mate Miso Kovac,Više od života ne mogu ti dati,Zwn2Yv0K_90,mogu,Vmr1s,moći,O
+Mate Miso Kovac,Više od života ne mogu ti dati,Zwn2Yv0K_90,ti,Pp2-sd,ti,O
+Mate Miso Kovac,Više od života ne mogu ti dati,Zwn2Yv0K_90,dati,Vmn,dati,O
+Mate Miso Kovac,Volim te i danas kao nekad,Zwn2Yv0K_91,Volim,Vmr1s,voljeti,O
+Mate Miso Kovac,Volim te i danas kao nekad,Zwn2Yv0K_91,te,Pp2-sa,ti,O
+Mate Miso Kovac,Volim te i danas kao nekad,Zwn2Yv0K_91,i,Cc,i,O
+Mate Miso Kovac,Volim te i danas kao nekad,Zwn2Yv0K_91,danas,Rgp,danas,O
+Mate Miso Kovac,Volim te i danas kao nekad,Zwn2Yv0K_91,kao,Cs,kao,O
+Mate Miso Kovac,Volim te i danas kao nekad,Zwn2Yv0K_91,nekad,Rgp,nekad,O
+Mate Miso Kovac,"Vraćam ti se, Dalmacijo, mati",Zwn2Yv0K_92,Vraćam,Vmr1s,vraćati,O
+Mate Miso Kovac,"Vraćam ti se, Dalmacijo, mati",Zwn2Yv0K_92,ti,Pp2-sd,ti,O
+Mate Miso Kovac,"Vraćam ti se, Dalmacijo, mati",Zwn2Yv0K_92,se,Px--sa,sebe,O
+Mate Miso Kovac,"Vraćam ti se, Dalmacijo, mati",Zwn2Yv0K_92,",",Z,",",O
+Mate Miso Kovac,"Vraćam ti se, Dalmacijo, mati",Zwn2Yv0K_92,Dalmacijo,Npmsn,Dalmacijo,B-per
+Mate Miso Kovac,"Vraćam ti se, Dalmacijo, mati",Zwn2Yv0K_92,",",Z,",",O
+Mate Miso Kovac,"Vraćam ti se, Dalmacijo, mati",Zwn2Yv0K_92,mati,Ncfsl,mata,O
+Mate Miso Kovac,Vrijeme plakanja,Zwn2Yv0K_93,Vrijeme,Ncnsn,vrijeme,O
+Mate Miso Kovac,Vrijeme plakanja,Zwn2Yv0K_93,plakanja,Ncnsg,plakanje,O
+Mate Miso Kovac,Za mene sreće nema,Zwn2Yv0K_94,Za,Sa,za,O
+Mate Miso Kovac,Za mene sreće nema,Zwn2Yv0K_94,mene,Pp1-sa,ja,O
+Mate Miso Kovac,Za mene sreće nema,Zwn2Yv0K_94,sreće,Ncfsg,sreća,O
+Mate Miso Kovac,Za mene sreće nema,Zwn2Yv0K_94,nema,Vmr3s,nemati,O
+Mate Miso Kovac,Zajedno smo,Zwn2Yv0K_95,Zajedno,Rgp,zajedno,O
+Mate Miso Kovac,Zajedno smo,Zwn2Yv0K_95,smo,Var1p,biti,O
+Mate Miso Kovac,Zapisi jeseni,Zwn2Yv0K_96,Zapisi,Ncmpn,zapis,O
+Mate Miso Kovac,Zapisi jeseni,Zwn2Yv0K_96,jeseni,Ncfsg,jesen,O
+Mate Miso Kovac,Zašto,Zwn2Yv0K_97,Zašto,Rgp,zašto,O
+Mate Miso Kovac,Zbogom nevjerna dušo,Zwn2Yv0K_98,Zbogom,Qo,zbogom,O
+Mate Miso Kovac,Zbogom nevjerna dušo,Zwn2Yv0K_98,nevjerna,Agpfsny,nevjeran,O
+Mate Miso Kovac,Zbogom nevjerna dušo,Zwn2Yv0K_98,dušo,Ncfsv,duša,O
+Mate Miso Kovac,Zelena trava doma mog,Zwn2Yv0K_99,Zelena,Agpfsny,zelen,O
+Mate Miso Kovac,Zelena trava doma mog,Zwn2Yv0K_99,trava,Ncfsn,trava,O
+Mate Miso Kovac,Zelena trava doma mog,Zwn2Yv0K_99,doma,Rgp,doma,O
+Mate Miso Kovac,Zelena trava doma mog,Zwn2Yv0K_99,mog,Ps1msg,moj,O
+Mate Miso Kovac,Znali su svi,Zwn2Yv0K_100,Znali,Vmp-pm,znati,O
+Mate Miso Kovac,Znali su svi,Zwn2Yv0K_100,su,Var3p,biti,O
+Mate Miso Kovac,Znali su svi,Zwn2Yv0K_100,svi,Agpmpny,sav,O
+Mate Miso Kovac,Željeli su da me sruše,Zwn2Yv0K_101,Željeli,Vmp-pm,željeti,O
+Mate Miso Kovac,Željeli su da me sruše,Zwn2Yv0K_101,su,Var3p,biti,O
+Mate Miso Kovac,Željeli su da me sruše,Zwn2Yv0K_101,da,Cs,da,O
+Mate Miso Kovac,Željeli su da me sruše,Zwn2Yv0K_101,me,Pp1-sa,ja,O
+Mate Miso Kovac,Željeli su da me sruše,Zwn2Yv0K_101,sruše,Vmr3p,srušiti,O
+Mate Miso Kovac,"Živim danas, ne mislim na sutra",Zwn2Yv0K_102,Živim,Vmr1s,živjeti,O
+Mate Miso Kovac,"Živim danas, ne mislim na sutra",Zwn2Yv0K_102,danas,Rgp,danas,O
+Mate Miso Kovac,"Živim danas, ne mislim na sutra",Zwn2Yv0K_102,",",Z,",",O
+Mate Miso Kovac,"Živim danas, ne mislim na sutra",Zwn2Yv0K_102,ne,Qz,ne,O
+Mate Miso Kovac,"Živim danas, ne mislim na sutra",Zwn2Yv0K_102,mislim,Vmr1s,misliti,O
+Mate Miso Kovac,"Živim danas, ne mislim na sutra",Zwn2Yv0K_102,na,Sa,na,O
+Mate Miso Kovac,"Živim danas, ne mislim na sutra",Zwn2Yv0K_102,sutra,Rgp,sutra,O
+Mate Miso Kovac,Adios amor,Zwn2Yv0K_0,Adios,Npmsn,Adios,B-per
+Mate Miso Kovac,Adios amor,Zwn2Yv0K_0,amor,Npmsn,Amor,I-per
+Mate Miso Kovac,Ako sam ikad ljubav dao,Zwn2Yv0K_1,Ako,Cs,ako,O
+Mate Miso Kovac,Ako sam ikad ljubav dao,Zwn2Yv0K_1,sam,Var1s,biti,O
+Mate Miso Kovac,Ako sam ikad ljubav dao,Zwn2Yv0K_1,ikad,Rgp,ikad,O
+Mate Miso Kovac,Ako sam ikad ljubav dao,Zwn2Yv0K_1,ljubav,Ncfsa,ljubav,O
+Mate Miso Kovac,Ako sam ikad ljubav dao,Zwn2Yv0K_1,dao,Vmp-sm,dati,O
+Mate Miso Kovac,Ako spavaš vilo moja,Zwn2Yv0K_2,Ako,Cs,ako,O
+Mate Miso Kovac,Ako spavaš vilo moja,Zwn2Yv0K_2,spavaš,Vmr2s,spavati,O
+Mate Miso Kovac,Ako spavaš vilo moja,Zwn2Yv0K_2,vilo,Vmp-sn,viti,O
+Mate Miso Kovac,Ako spavaš vilo moja,Zwn2Yv0K_2,moja,Ps1fsn,moj,O
+Mate Miso Kovac,Ako tvoja duša moju pjesmu sluša,Zwn2Yv0K_3,Ako,Cs,ako,O
+Mate Miso Kovac,Ako tvoja duša moju pjesmu sluša,Zwn2Yv0K_3,tvoja,Ps2fsn,tvoj,O
+Mate Miso Kovac,Ako tvoja duša moju pjesmu sluša,Zwn2Yv0K_3,duša,Ncfsn,duša,O
+Mate Miso Kovac,Ako tvoja duša moju pjesmu sluša,Zwn2Yv0K_3,moju,Agpfsay,moj,O
+Mate Miso Kovac,Ako tvoja duša moju pjesmu sluša,Zwn2Yv0K_3,pjesmu,Ncfsa,pjesma,O
+Mate Miso Kovac,Ako tvoja duša moju pjesmu sluša,Zwn2Yv0K_3,sluša,Vmr3s,slušati,O
+Mate Miso Kovac,Balada o zelenim očima,Zwn2Yv0K_4,Balada,Ncfsn,balada,O
+Mate Miso Kovac,Balada o zelenim očima,Zwn2Yv0K_4,o,Sl,o,O
+Mate Miso Kovac,Balada o zelenim očima,Zwn2Yv0K_4,zelenim,Agpfply,zelen,O
+Mate Miso Kovac,Balada o zelenim očima,Zwn2Yv0K_4,očima,Ncfpl,oko,O
+Mate Miso Kovac,Bez tebe ja polako umirem,Zwn2Yv0K_5,Bez,Sg,bez,O
+Mate Miso Kovac,Bez tebe ja polako umirem,Zwn2Yv0K_5,tebe,Pp2-sg,ti,O
+Mate Miso Kovac,Bez tebe ja polako umirem,Zwn2Yv0K_5,ja,Pp1-sn,ja,O
+Mate Miso Kovac,Bez tebe ja polako umirem,Zwn2Yv0K_5,polako,Rgp,polako,O
+Mate Miso Kovac,Bez tebe ja polako umirem,Zwn2Yv0K_5,umirem,Vmr1s,umirati,O
+Mate Miso Kovac,Bila je kao pjesma,Zwn2Yv0K_6,Bila,Vap-sf,biti,O
+Mate Miso Kovac,Bila je kao pjesma,Zwn2Yv0K_6,je,Var3s,biti,O
+Mate Miso Kovac,Bila je kao pjesma,Zwn2Yv0K_6,kao,Cs,kao,O
+Mate Miso Kovac,Bila je kao pjesma,Zwn2Yv0K_6,pjesma,Ncfsn,pjesma,O
+Mate Miso Kovac,Bit ću daleko,Zwn2Yv0K_7,Bit,Van,biti,O
+Mate Miso Kovac,Bit ću daleko,Zwn2Yv0K_7,ću,Var1s,htjeti,O
+Mate Miso Kovac,Bit ću daleko,Zwn2Yv0K_7,daleko,Rgp,daleko,O
+Mate Miso Kovac,Brod bez luke,Zwn2Yv0K_8,Brod,Ncmsn,brod,O
+Mate Miso Kovac,Brod bez luke,Zwn2Yv0K_8,bez,Sg,bez,O
+Mate Miso Kovac,Brod bez luke,Zwn2Yv0K_8,luke,Ncfsg,luka,O
+Mate Miso Kovac,Budi jaka,Zwn2Yv0K_9,Budi,Vmr3s,buditi,O
+Mate Miso Kovac,Budi jaka,Zwn2Yv0K_9,jaka,Agpfsny,jak,O
+Mate Miso Kovac,Čemu da živim,Zwn2Yv0K_10,Čemu,Npmsd,Čem,B-per
+Mate Miso Kovac,Čemu da živim,Zwn2Yv0K_10,da,Cs,da,O
+Mate Miso Kovac,Čemu da živim,Zwn2Yv0K_10,živim,Vmr1s,živjeti,O
+Mate Miso Kovac,Čuvajte mi pismu,Zwn2Yv0K_11,Čuvajte,Vmm2p,čuvati,O
+Mate Miso Kovac,Čuvajte mi pismu,Zwn2Yv0K_11,mi,Pp1-sd,ja,O
+Mate Miso Kovac,Čuvajte mi pismu,Zwn2Yv0K_11,pismu,Ncnsd,pismo,O
+Mate Miso Kovac,Da te nema,Zwn2Yv0K_12,Da,Cs,da,O
+Mate Miso Kovac,Da te nema,Zwn2Yv0K_12,te,Pp2-sa,ti,O
+Mate Miso Kovac,Da te nema,Zwn2Yv0K_12,nema,Vmr3s,nemati,O
+Mate Miso Kovac,Da te sretnem za sto godina,Zwn2Yv0K_13,Da,Cs,da,O
+Mate Miso Kovac,Da te sretnem za sto godina,Zwn2Yv0K_13,te,Pp2-sa,ti,O
+Mate Miso Kovac,Da te sretnem za sto godina,Zwn2Yv0K_13,sretnem,Vmr1s,sresti,O
+Mate Miso Kovac,Da te sretnem za sto godina,Zwn2Yv0K_13,za,Sa,za,O
+Mate Miso Kovac,Da te sretnem za sto godina,Zwn2Yv0K_13,sto,Ncmsan,stol,O
+Mate Miso Kovac,Da te sretnem za sto godina,Zwn2Yv0K_13,godina,Ncfpg,godina,O
+Mate Miso Kovac,"Dalmacijo, sveto ime",Zwn2Yv0K_14,Dalmacijo,Npmsn,Dalmacijo,B-per
+Mate Miso Kovac,"Dalmacijo, sveto ime",Zwn2Yv0K_14,",",Z,",",O
+Mate Miso Kovac,"Dalmacijo, sveto ime",Zwn2Yv0K_14,sveto,Agpnsay,svet,O
+Mate Miso Kovac,"Dalmacijo, sveto ime",Zwn2Yv0K_14,ime,Ncnsa,ime,O
+Mate Miso Kovac,Dalmatinac,Zwn2Yv0K_15,Dalmatinac,Ncmsn,dalmatinac,O
+Mate Miso Kovac,Dalmatinska,Zwn2Yv0K_16,Dalmatinska,Agpfsny,dalmatinski,B-loc
+Mate Miso Kovac,Digao sam ruke od života,Zwn2Yv0K_17,Digao,Vmp-sm,dići,O
+Mate Miso Kovac,Digao sam ruke od života,Zwn2Yv0K_17,sam,Var1s,biti,O
+Mate Miso Kovac,Digao sam ruke od života,Zwn2Yv0K_17,ruke,Ncfpa,ruka,O
+Mate Miso Kovac,Digao sam ruke od života,Zwn2Yv0K_17,od,Sg,od,O
+Mate Miso Kovac,Digao sam ruke od života,Zwn2Yv0K_17,života,Ncmsg,život,O
+Mate Miso Kovac,Dome moj,Zwn2Yv0K_18,Dome,Ncmsv,dom,O
+Mate Miso Kovac,Dome moj,Zwn2Yv0K_18,moj,Ps1msv,moj,O
+Mate Miso Kovac,Dušu sam dao,Zwn2Yv0K_19,Dušu,Ncfsa,duša,O
+Mate Miso Kovac,Dušu sam dao,Zwn2Yv0K_19,sam,Var1s,biti,O
+Mate Miso Kovac,Dušu sam dao,Zwn2Yv0K_19,dao,Vmp-sm,dati,O
+Mate Miso Kovac,Gdje ste noćas prijatelji,Zwn2Yv0K_20,Gdje,Rgp,gdje,O
+Mate Miso Kovac,Gdje ste noćas prijatelji,Zwn2Yv0K_20,ste,Var2p,biti,O
+Mate Miso Kovac,Gdje ste noćas prijatelji,Zwn2Yv0K_20,noćas,Agpmpny,noćas,O
+Mate Miso Kovac,Gdje ste noćas prijatelji,Zwn2Yv0K_20,prijatelji,Ncmpn,prijatelj,O
+Mate Miso Kovac,"Gitaro moja, jedini druže",Zwn2Yv0K_21,Gitaro,Ncfsv,gitara,O
+Mate Miso Kovac,"Gitaro moja, jedini druže",Zwn2Yv0K_21,moja,Ps1fsn,moj,O
+Mate Miso Kovac,"Gitaro moja, jedini druže",Zwn2Yv0K_21,",",Z,",",O
+Mate Miso Kovac,"Gitaro moja, jedini druže",Zwn2Yv0K_21,jedini,Agpmsny,jedini,O
+Mate Miso Kovac,"Gitaro moja, jedini druže",Zwn2Yv0K_21,druže,Vmr3p,družiti,O
+Mate Miso Kovac,Hajde živote prijatelj mi budi,Zwn2Yv0K_22,Hajde,I,hajde,O
+Mate Miso Kovac,Hajde živote prijatelj mi budi,Zwn2Yv0K_22,živote,Ncmpa,život,O
+Mate Miso Kovac,Hajde živote prijatelj mi budi,Zwn2Yv0K_22,prijatelj,Ncmsn,prijatelj,O
+Mate Miso Kovac,Hajde živote prijatelj mi budi,Zwn2Yv0K_22,mi,Pp1-sd,ja,O
+Mate Miso Kovac,Hajde živote prijatelj mi budi,Zwn2Yv0K_22,budi,Vmr3s,buditi,O
+Mate Miso Kovac,Hrvatska ljubavi,Zwn2Yv0K_23,Hrvatska,Npfsn,Hrvatska,B-loc
+Mate Miso Kovac,Hrvatska ljubavi,Zwn2Yv0K_23,ljubavi,Ncfsg,ljubav,O
+Mate Miso Kovac,I na križu,Zwn2Yv0K_24,I,Cc,i,O
+Mate Miso Kovac,I na križu,Zwn2Yv0K_24,na,Sl,na,O
+Mate Miso Kovac,I na križu,Zwn2Yv0K_24,križu,Ncmsl,križ,O
+Mate Miso Kovac,Igramo zadnji tango,Zwn2Yv0K_25,Igramo,Vmr1p,igrati,O
+Mate Miso Kovac,Igramo zadnji tango,Zwn2Yv0K_25,zadnji,Agpmsayn,zadnji,O
+Mate Miso Kovac,Igramo zadnji tango,Zwn2Yv0K_25,tango,Ncmsan,tango,O
+Mate Miso Kovac,Ivana,Zwn2Yv0K_26,Ivana,Npfsn,Ivana,B-per
+Mate Miso Kovac,Izajdi na prozor (Klapa Šibenik),Zwn2Yv0K_27,Izajdi,Ncnpn,izajde,O
+Mate Miso Kovac,Izajdi na prozor (Klapa Šibenik),Zwn2Yv0K_27,na,Sa,na,O
+Mate Miso Kovac,Izajdi na prozor (Klapa Šibenik),Zwn2Yv0K_27,prozor,Ncmsan,prozor,O
+Mate Miso Kovac,Izajdi na prozor (Klapa Šibenik),Zwn2Yv0K_27,(,Z,(,O
+Mate Miso Kovac,Izajdi na prozor (Klapa Šibenik),Zwn2Yv0K_27,Klapa,Ncfsn,klapa,B-org
+Mate Miso Kovac,Izajdi na prozor (Klapa Šibenik),Zwn2Yv0K_27,Šibenik,Npmsn,Šibenik,I-org
+Mate Miso Kovac,Izajdi na prozor (Klapa Šibenik),Zwn2Yv0K_27,),Z,),O
+Mate Miso Kovac,Ja bez tebe sreće nemam,Zwn2Yv0K_28,Ja,Pp1-sn,ja,O
+Mate Miso Kovac,Ja bez tebe sreće nemam,Zwn2Yv0K_28,bez,Sg,bez,O
+Mate Miso Kovac,Ja bez tebe sreće nemam,Zwn2Yv0K_28,tebe,Agpfsgy,Tebe,O
+Mate Miso Kovac,Ja bez tebe sreće nemam,Zwn2Yv0K_28,sreće,Ncfsg,sreća,O
+Mate Miso Kovac,Ja bez tebe sreće nemam,Zwn2Yv0K_28,nemam,Var1s,nemati,O
+Mate Miso Kovac,Ja nemam više razloga da živim,Zwn2Yv0K_29,Ja,Pp1-sn,ja,O
+Mate Miso Kovac,Ja nemam više razloga da živim,Zwn2Yv0K_29,nemam,Vmr1s,nemati,O
+Mate Miso Kovac,Ja nemam više razloga da živim,Zwn2Yv0K_29,više,Rgc,mnogo,O
+Mate Miso Kovac,Ja nemam više razloga da živim,Zwn2Yv0K_29,razloga,Ncmpg,razlog,O
+Mate Miso Kovac,Ja nemam više razloga da živim,Zwn2Yv0K_29,da,Cs,da,O
+Mate Miso Kovac,Ja nemam više razloga da živim,Zwn2Yv0K_29,živim,Vmr1s,živjeti,O
+Mate Miso Kovac,Ja odlazim (Ya me voi),Zwn2Yv0K_30,Ja,Pp1-sn,ja,O
+Mate Miso Kovac,Ja odlazim (Ya me voi),Zwn2Yv0K_30,odlazim,Vmr1s,odlaziti,O
+Mate Miso Kovac,Ja odlazim (Ya me voi),Zwn2Yv0K_30,(,Z,(,O
+Mate Miso Kovac,Ja odlazim (Ya me voi),Zwn2Yv0K_30,Ya,Xf,Ya,B-misc
+Mate Miso Kovac,Ja odlazim (Ya me voi),Zwn2Yv0K_30,me,Xf,ja,I-misc
+Mate Miso Kovac,Ja odlazim (Ya me voi),Zwn2Yv0K_30,voi,Xf,voi,I-misc
+Mate Miso Kovac,Ja odlazim (Ya me voi),Zwn2Yv0K_30,),Z,),O
+Mate Miso Kovac,Ja želim mir,Zwn2Yv0K_31,Ja,Pp1-sn,ja,O
+Mate Miso Kovac,Ja želim mir,Zwn2Yv0K_31,želim,Vmr1s,željeti,O
+Mate Miso Kovac,Ja želim mir,Zwn2Yv0K_31,mir,Ncmsan,mir,O
+Mate Miso Kovac,Jedina prava,Zwn2Yv0K_32,Jedina,Agpnpay,jedini,O
+Mate Miso Kovac,Jedina prava,Zwn2Yv0K_32,prava,Ncnpa,pravo,O
+Mate Miso Kovac,Još i danas teku suze jedne žene,Zwn2Yv0K_33,Još,Rgp,još,O
+Mate Miso Kovac,Još i danas teku suze jedne žene,Zwn2Yv0K_33,i,Qo,i,O
+Mate Miso Kovac,Još i danas teku suze jedne žene,Zwn2Yv0K_33,danas,Rgp,danas,O
+Mate Miso Kovac,Još i danas teku suze jedne žene,Zwn2Yv0K_33,teku,Vmr3p,teći,O
+Mate Miso Kovac,Još i danas teku suze jedne žene,Zwn2Yv0K_33,suze,Ncfpn,suza,O
+Mate Miso Kovac,Još i danas teku suze jedne žene,Zwn2Yv0K_33,jedne,Mlcfsg,jedan,O
+Mate Miso Kovac,Još i danas teku suze jedne žene,Zwn2Yv0K_33,žene,Ncfsg,žena,O
+Mate Miso Kovac,Južnjačke sam krvi,Zwn2Yv0K_34,Južnjačke,Agpfpny,južnjački,O
+Mate Miso Kovac,Južnjačke sam krvi,Zwn2Yv0K_34,sam,Var1s,biti,O
+Mate Miso Kovac,Južnjačke sam krvi,Zwn2Yv0K_34,krvi,Ncfsg,krv,O
+Mate Miso Kovac,Kad dođem blizu Hvara,Zwn2Yv0K_35,Kad,Cs,kad,O
+Mate Miso Kovac,Kad dođem blizu Hvara,Zwn2Yv0K_35,dođem,Vmr1s,doći,O
+Mate Miso Kovac,Kad dođem blizu Hvara,Zwn2Yv0K_35,blizu,Sg,blizu,O
+Mate Miso Kovac,Kad dođem blizu Hvara,Zwn2Yv0K_35,Hvara,Npmsg,Hvar,B-loc
+Mate Miso Kovac,Kad pjevam suze teku,Zwn2Yv0K_36,Kad,Cs,kad,O
+Mate Miso Kovac,Kad pjevam suze teku,Zwn2Yv0K_36,pjevam,Vmr1s,pjevati,O
+Mate Miso Kovac,Kad pjevam suze teku,Zwn2Yv0K_36,suze,Ncfpn,suza,O
+Mate Miso Kovac,Kad pjevam suze teku,Zwn2Yv0K_36,teku,Vmr3p,teći,O
+Mate Miso Kovac,Kako mi je dobro znaju,Zwn2Yv0K_37,Kako,Cs,kako,O
+Mate Miso Kovac,Kako mi je dobro znaju,Zwn2Yv0K_37,mi,Pp1-sd,ja,O
+Mate Miso Kovac,Kako mi je dobro znaju,Zwn2Yv0K_37,je,Var3s,biti,O
+Mate Miso Kovac,Kako mi je dobro znaju,Zwn2Yv0K_37,dobro,Rgp,dobro,O
+Mate Miso Kovac,Kako mi je dobro znaju,Zwn2Yv0K_37,znaju,Vmr3p,znati,O
+Mate Miso Kovac,Kaži mi kaži,Zwn2Yv0K_38,Kaži,Vmm2s,kazati,O
+Mate Miso Kovac,Kaži mi kaži,Zwn2Yv0K_38,mi,Pp1-sd,ja,O
+Mate Miso Kovac,Kaži mi kaži,Zwn2Yv0K_38,kaži,Vmm2s,kazati,O
+Mate Miso Kovac,Kralj tuge,Zwn2Yv0K_39,Kralj,Ncmsn,kralj,O
+Mate Miso Kovac,Kralj tuge,Zwn2Yv0K_39,tuge,Ncfsg,tuga,O
+Mate Miso Kovac,La Paloma,Zwn2Yv0K_40,La,Npmsg,L,B-per
+Mate Miso Kovac,La Paloma,Zwn2Yv0K_40,Paloma,Npmsg,Palom,I-per
+Mate Miso Kovac,Malo mi je jedan život,Zwn2Yv0K_41,Malo,Rgp,malo,O
+Mate Miso Kovac,Malo mi je jedan život,Zwn2Yv0K_41,mi,Pp1-sd,ja,O
+Mate Miso Kovac,Malo mi je jedan život,Zwn2Yv0K_41,je,Var3s,biti,O
+Mate Miso Kovac,Malo mi je jedan život,Zwn2Yv0K_41,jedan,Mlcmsn,jedan,O
+Mate Miso Kovac,Malo mi je jedan život,Zwn2Yv0K_41,život,Ncmsn,život,O
+Mate Miso Kovac,Meni treba tvoja ljubav,Zwn2Yv0K_42,Meni,Pp1-sd,ja,O
+Mate Miso Kovac,Meni treba tvoja ljubav,Zwn2Yv0K_42,treba,Vmr3s,trebati,O
+Mate Miso Kovac,Meni treba tvoja ljubav,Zwn2Yv0K_42,tvoja,Ps2fsn,tvoj,O
+Mate Miso Kovac,Meni treba tvoja ljubav,Zwn2Yv0K_42,ljubav,Ncfsn,ljubav,O
+Mate Miso Kovac,Mogli smo više,Zwn2Yv0K_43,Mogli,Vmp-pm,moći,O
+Mate Miso Kovac,Mogli smo više,Zwn2Yv0K_43,smo,Var1p,biti,O
+Mate Miso Kovac,Mogli smo više,Zwn2Yv0K_43,više,Rgc,mnogo,O
+Mate Miso Kovac,Molitva za domovinu,Zwn2Yv0K_44,Molitva,Ncfsn,molitva,O
+Mate Miso Kovac,Molitva za domovinu,Zwn2Yv0K_44,za,Sa,za,O
+Mate Miso Kovac,Molitva za domovinu,Zwn2Yv0K_44,domovinu,Ncfsa,domovina,O
+Mate Miso Kovac,Mornaru sretan put,Zwn2Yv0K_45,Mornaru,Ncmsd,mornar,O
+Mate Miso Kovac,Mornaru sretan put,Zwn2Yv0K_45,sretan,Appmsnn,sretati,O
+Mate Miso Kovac,Mornaru sretan put,Zwn2Yv0K_45,put,Ncmsn,put,O
+Mate Miso Kovac,Na križu,Zwn2Yv0K_46,Na,Sl,na,O
+Mate Miso Kovac,Na križu,Zwn2Yv0K_46,križu,Ncmsl,križ,O
+Mate Miso Kovac,"Ne idi, ne idi",Zwn2Yv0K_47,Ne,Qz,ne,O
+Mate Miso Kovac,"Ne idi, ne idi",Zwn2Yv0K_47,idi,Vmm2s,ići,O
+Mate Miso Kovac,"Ne idi, ne idi",Zwn2Yv0K_47,",",Z,",",O
+Mate Miso Kovac,"Ne idi, ne idi",Zwn2Yv0K_47,ne,Qz,ne,O
+Mate Miso Kovac,"Ne idi, ne idi",Zwn2Yv0K_47,idi,Vmm2s,ići,O
+Mate Miso Kovac,Ne mogu prestati da te volim (I can't stop loving you),Zwn2Yv0K_48,Ne,Qz,ne,O
+Mate Miso Kovac,Ne mogu prestati da te volim (I can't stop loving you),Zwn2Yv0K_48,mogu,Vmr1s,moći,O
+Mate Miso Kovac,Ne mogu prestati da te volim (I can't stop loving you),Zwn2Yv0K_48,prestati,Vmn,prestati,O
+Mate Miso Kovac,Ne mogu prestati da te volim (I can't stop loving you),Zwn2Yv0K_48,da,Cs,da,O
+Mate Miso Kovac,Ne mogu prestati da te volim (I can't stop loving you),Zwn2Yv0K_48,te,Pp2-sa,ti,O
+Mate Miso Kovac,Ne mogu prestati da te volim (I can't stop loving you),Zwn2Yv0K_48,volim,Vmr1s,voljeti,O
+Mate Miso Kovac,Ne mogu prestati da te volim (I can't stop loving you),Zwn2Yv0K_48,(,Z,(,O
+Mate Miso Kovac,Ne mogu prestati da te volim (I can't stop loving you),Zwn2Yv0K_48,I,Cc,i,O
+Mate Miso Kovac,Ne mogu prestati da te volim (I can't stop loving you),Zwn2Yv0K_48,can't,Agpmsny,can't,O
+Mate Miso Kovac,Ne mogu prestati da te volim (I can't stop loving you),Zwn2Yv0K_48,stop,Ncmsn,stop,O
+Mate Miso Kovac,Ne mogu prestati da te volim (I can't stop loving you),Zwn2Yv0K_48,loving,Xf,loving,O
+Mate Miso Kovac,Ne mogu prestati da te volim (I can't stop loving you),Zwn2Yv0K_48,you,Xf,you,O
+Mate Miso Kovac,Ne mogu prestati da te volim (I can't stop loving you),Zwn2Yv0K_48,),Z,),O
+Mate Miso Kovac,Ne sudi mi,Zwn2Yv0K_49,Ne,Qz,ne,O
+Mate Miso Kovac,Ne sudi mi,Zwn2Yv0K_49,sudi,Vmr3s,suditi,O
+Mate Miso Kovac,Ne sudi mi,Zwn2Yv0K_49,mi,Pp1-sd,ja,O
+Mate Miso Kovac,Ne traži drugu ljubav,Zwn2Yv0K_50,Ne,Qz,ne,O
+Mate Miso Kovac,Ne traži drugu ljubav,Zwn2Yv0K_50,traži,Vmr3s,tražiti,O
+Mate Miso Kovac,Ne traži drugu ljubav,Zwn2Yv0K_50,drugu,Mlofsa,drugi,O
+Mate Miso Kovac,Ne traži drugu ljubav,Zwn2Yv0K_50,ljubav,Ncfsa,ljubav,O
+Mate Miso Kovac,Neću da te kunem,Zwn2Yv0K_51,Neću,Var1s,htjeti,O
+Mate Miso Kovac,Neću da te kunem,Zwn2Yv0K_51,da,Cs,da,O
+Mate Miso Kovac,Neću da te kunem,Zwn2Yv0K_51,te,Pp2-sa,ti,O
+Mate Miso Kovac,Neću da te kunem,Zwn2Yv0K_51,kunem,Vmr1s,kleti,O
+Mate Miso Kovac,Nek teku vode sve,Zwn2Yv0K_52,Nek,Qo,nek,O
+Mate Miso Kovac,Nek teku vode sve,Zwn2Yv0K_52,teku,Ncmsl,tek,O
+Mate Miso Kovac,Nek teku vode sve,Zwn2Yv0K_52,vode,Ncfsg,voda,O
+Mate Miso Kovac,Nek teku vode sve,Zwn2Yv0K_52,sve,Agpnsny,sav,O
+Mate Miso Kovac,Nema smijeha na tvom licu,Zwn2Yv0K_53,Nema,Vmr3s,nemati,O
+Mate Miso Kovac,Nema smijeha na tvom licu,Zwn2Yv0K_53,smijeha,Ncmsg,smijeh,O
+Mate Miso Kovac,Nema smijeha na tvom licu,Zwn2Yv0K_53,na,Sl,na,O
+Mate Miso Kovac,Nema smijeha na tvom licu,Zwn2Yv0K_53,tvom,Agpnsly,tvoj,O
+Mate Miso Kovac,Nema smijeha na tvom licu,Zwn2Yv0K_53,licu,Ncnsl,lice,O
+Mate Miso Kovac,Nije lako biti sam,Zwn2Yv0K_54,Nije,Var3s,biti,O
+Mate Miso Kovac,Nije lako biti sam,Zwn2Yv0K_54,lako,Rgp,lako,O
+Mate Miso Kovac,Nije lako biti sam,Zwn2Yv0K_54,biti,Van,biti,O
+Mate Miso Kovac,Nije lako biti sam,Zwn2Yv0K_54,sam,Agpmsnn,sam,O
+Mate Miso Kovac,Nikoga nisam volio tako,Zwn2Yv0K_55,Nikoga,Pi3m-a,nitko,O
+Mate Miso Kovac,Nikoga nisam volio tako,Zwn2Yv0K_55,nisam,Var1s,biti,O
+Mate Miso Kovac,Nikoga nisam volio tako,Zwn2Yv0K_55,volio,Vmp-sm,voljeti,O
+Mate Miso Kovac,Nikoga nisam volio tako,Zwn2Yv0K_55,tako,Rgp,tako,O
+Mate Miso Kovac,Noć ti dira crne kose,Zwn2Yv0K_56,Noć,Ncfsn,noć,O
+Mate Miso Kovac,Noć ti dira crne kose,Zwn2Yv0K_56,ti,Pp2-sd,ti,O
+Mate Miso Kovac,Noć ti dira crne kose,Zwn2Yv0K_56,dira,Vmr3s,dirati,O
+Mate Miso Kovac,Noć ti dira crne kose,Zwn2Yv0K_56,crne,Agpfsgy,crn,O
+Mate Miso Kovac,Noć ti dira crne kose,Zwn2Yv0K_56,kose,Ncfsg,kosa,O
+Mate Miso Kovac,Noćas sam te sanjao,Zwn2Yv0K_57,Noćas,Rgp,noćas,O
+Mate Miso Kovac,Noćas sam te sanjao,Zwn2Yv0K_57,sam,Var1s,biti,O
+Mate Miso Kovac,Noćas sam te sanjao,Zwn2Yv0K_57,te,Pp2-sa,ti,O
+Mate Miso Kovac,Noćas sam te sanjao,Zwn2Yv0K_57,sanjao,Vmp-sm,sanjati,O
+Mate Miso Kovac,Oči tvoje plave,Zwn2Yv0K_58,Oči,Ncfpn,oko,O
+Mate Miso Kovac,Oči tvoje plave,Zwn2Yv0K_58,tvoje,Ncfsg,tvoj,O
+Mate Miso Kovac,Oči tvoje plave,Zwn2Yv0K_58,plave,Agpfsgy,plav,O
+Mate Miso Kovac,Odavno više ne plačem zbog tebe,Zwn2Yv0K_59,Odavno,Rgp,odavno,O
+Mate Miso Kovac,Odavno više ne plačem zbog tebe,Zwn2Yv0K_59,više,Rgc,mnogo,O
+Mate Miso Kovac,Odavno više ne plačem zbog tebe,Zwn2Yv0K_59,ne,Qz,ne,O
+Mate Miso Kovac,Odavno više ne plačem zbog tebe,Zwn2Yv0K_59,plačem,Vmr1s,plakati,O
+Mate Miso Kovac,Odavno više ne plačem zbog tebe,Zwn2Yv0K_59,zbog,Sg,zbog,O
+Mate Miso Kovac,Odavno više ne plačem zbog tebe,Zwn2Yv0K_59,tebe,Pp2-sg,ti,O
+Mate Miso Kovac,Odrasli smo,Zwn2Yv0K_60,Odrasli,Agpmpny,odrastao,O
+Mate Miso Kovac,Odrasli smo,Zwn2Yv0K_60,smo,Var1p,biti,O
+Mate Miso Kovac,Oj ti dušo duše moje,Zwn2Yv0K_61,Oj,I,oj,O
+Mate Miso Kovac,Oj ti dušo duše moje,Zwn2Yv0K_61,ti,Pp2-sd,ti,O
+Mate Miso Kovac,Oj ti dušo duše moje,Zwn2Yv0K_61,dušo,Ncfsg,duša,O
+Mate Miso Kovac,Oj ti dušo duše moje,Zwn2Yv0K_61,duše,Ncfsg,duša,O
+Mate Miso Kovac,Oj ti dušo duše moje,Zwn2Yv0K_61,moje,Ps1fsg,moj,O
+Mate Miso Kovac,Ostala je samo jedna pjesma,Zwn2Yv0K_62,Ostala,Vmp-sf,ostati,O
+Mate Miso Kovac,Ostala je samo jedna pjesma,Zwn2Yv0K_62,je,Var3s,biti,O
+Mate Miso Kovac,Ostala je samo jedna pjesma,Zwn2Yv0K_62,samo,Rgp,samo,O
+Mate Miso Kovac,Ostala je samo jedna pjesma,Zwn2Yv0K_62,jedna,Mlcfsn,jedan,O
+Mate Miso Kovac,Ostala je samo jedna pjesma,Zwn2Yv0K_62,pjesma,Ncfsn,pjesma,O
+Mate Miso Kovac,"Ostavi me, živote",Zwn2Yv0K_63,Ostavi,Vmr3s,ostaviti,O
+Mate Miso Kovac,"Ostavi me, živote",Zwn2Yv0K_63,me,Pp1-sa,ja,O
+Mate Miso Kovac,"Ostavi me, živote",Zwn2Yv0K_63,",",Z,",",O
+Mate Miso Kovac,"Ostavi me, živote",Zwn2Yv0K_63,živote,Ncmpa,život,O
+Mate Miso Kovac,Ove noći svi su sretni,Zwn2Yv0K_64,Ove,Pd-fsg,ovaj,O
+Mate Miso Kovac,Ove noći svi su sretni,Zwn2Yv0K_64,noći,Ncfsg,noć,O
+Mate Miso Kovac,Ove noći svi su sretni,Zwn2Yv0K_64,svi,Agpmpny,sav,O
+Mate Miso Kovac,Ove noći svi su sretni,Zwn2Yv0K_64,su,Var3p,biti,O
+Mate Miso Kovac,Ove noći svi su sretni,Zwn2Yv0K_64,sretni,Agpmpny,sretan,O
+Mate Miso Kovac,Pamtit ću te (za sva vremena),Zwn2Yv0K_65,Pamtit,Vmn,pamtiti,O
+Mate Miso Kovac,Pamtit ću te (za sva vremena),Zwn2Yv0K_65,ću,Var1s,htjeti,O
+Mate Miso Kovac,Pamtit ću te (za sva vremena),Zwn2Yv0K_65,te,Pp2-sa,ti,O
+Mate Miso Kovac,Pamtit ću te (za sva vremena),Zwn2Yv0K_65,(,Z,(,O
+Mate Miso Kovac,Pamtit ću te (za sva vremena),Zwn2Yv0K_65,za,Sa,za,O
+Mate Miso Kovac,Pamtit ću te (za sva vremena),Zwn2Yv0K_65,sva,Agpnpay,sav,O
+Mate Miso Kovac,Pamtit ću te (za sva vremena),Zwn2Yv0K_65,vremena,Ncnpa,vrijeme,O
+Mate Miso Kovac,Pamtit ću te (za sva vremena),Zwn2Yv0K_65,),Z,),O
+Mate Miso Kovac,Pjevaj legendo,Zwn2Yv0K_66,Pjevaj,Vmm2s,pjevati,O
+Mate Miso Kovac,Pjevaj legendo,Zwn2Yv0K_66,legendo,Ncmsv,legenda,O
+Mate Miso Kovac,Poljubi zemlju,Zwn2Yv0K_67,Poljubi,Vmr3s,poljubiti,O
+Mate Miso Kovac,Poljubi zemlju,Zwn2Yv0K_67,zemlju,Ncfsa,zemlja,O
+Mate Miso Kovac,Ponoćni blues,Zwn2Yv0K_68,Ponoćni,Agpmsny,ponoćni,O
+Mate Miso Kovac,Ponoćni blues,Zwn2Yv0K_68,blues,Ncmsn,blues,O
+Mate Miso Kovac,Poslije toliko godina,Zwn2Yv0K_69,Poslije,Sg,poslije,O
+Mate Miso Kovac,Poslije toliko godina,Zwn2Yv0K_69,toliko,Rgp,toliko,O
+Mate Miso Kovac,Poslije toliko godina,Zwn2Yv0K_69,godina,Ncfpg,godina,O
+Mate Miso Kovac,Potraži me u pjesmi,Zwn2Yv0K_70,Potraži,Vmr3s,potražiti,O
+Mate Miso Kovac,Potraži me u pjesmi,Zwn2Yv0K_70,me,Pp1-sa,ja,O
+Mate Miso Kovac,Potraži me u pjesmi,Zwn2Yv0K_70,u,Sl,u,O
+Mate Miso Kovac,Potraži me u pjesmi,Zwn2Yv0K_70,pjesmi,Ncfsl,pjesma,O
+Mate Miso Kovac,Prokleto je jutro sutrašnje,Zwn2Yv0K_71,Prokleto,Agpnsny,proklet,O
+Mate Miso Kovac,Prokleto je jutro sutrašnje,Zwn2Yv0K_71,je,Var3s,biti,O
+Mate Miso Kovac,Prokleto je jutro sutrašnje,Zwn2Yv0K_71,jutro,Ncnsn,jutro,O
+Mate Miso Kovac,Prokleto je jutro sutrašnje,Zwn2Yv0K_71,sutrašnje,Agpnsny,sutrašnji,O
+Mate Miso Kovac,Proplakat će zora,Zwn2Yv0K_72,Proplakat,Vmn,proplakati,O
+Mate Miso Kovac,Proplakat će zora,Zwn2Yv0K_72,će,Var3s,htjeti,O
+Mate Miso Kovac,Proplakat će zora,Zwn2Yv0K_72,zora,Ncfsn,zora,O
+Mate Miso Kovac,Reci zbogom,Zwn2Yv0K_73,Reci,Vmm2s,reći,O
+Mate Miso Kovac,Reci zbogom,Zwn2Yv0K_73,zbogom,Qo,zbogom,O
+Mate Miso Kovac,Rođen sam da volim,Zwn2Yv0K_74,Rođen,Appmsnn,roditi,O
+Mate Miso Kovac,Rođen sam da volim,Zwn2Yv0K_74,sam,Var1s,biti,O
+Mate Miso Kovac,Rođen sam da volim,Zwn2Yv0K_74,da,Cs,da,O
+Mate Miso Kovac,Rođen sam da volim,Zwn2Yv0K_74,volim,Vmr1s,voljeti,O
+Mate Miso Kovac,Samo jednom ljubav,Zwn2Yv0K_75,Samo,Rgp,samo,O
+Mate Miso Kovac,Samo jednom ljubav,Zwn2Yv0K_75,jednom,Rgp,jednom,O
+Mate Miso Kovac,Samo jednom ljubav,Zwn2Yv0K_75,ljubav,Ncfsn,ljubav,O
+Mate Miso Kovac,Serenada,Zwn2Yv0K_76,Serenada,Ncfsn,serenada,O
+Mate Miso Kovac,Sinoć kad sam ti proša,Zwn2Yv0K_77,Sinoć,Rgp,sinoć,O
+Mate Miso Kovac,Sinoć kad sam ti proša,Zwn2Yv0K_77,kad,Cs,kad,O
+Mate Miso Kovac,Sinoć kad sam ti proša,Zwn2Yv0K_77,sam,Var1s,biti,O
+Mate Miso Kovac,Sinoć kad sam ti proša,Zwn2Yv0K_77,ti,Pp2-sd,ti,O
+Mate Miso Kovac,Sinoć kad sam ti proša,Zwn2Yv0K_77,proša,Vmp-sf,proti,O
+Mate Miso Kovac,Sutra mi sude,Zwn2Yv0K_78,Sutra,Rgp,sutra,O
+Mate Miso Kovac,Sutra mi sude,Zwn2Yv0K_78,mi,Pp1-sd,ja,O
+Mate Miso Kovac,Sutra mi sude,Zwn2Yv0K_78,sude,Vmr3p,suditi,O
+Mate Miso Kovac,Sve što mi život pruža,Zwn2Yv0K_79,Sve,Agpnsny,sav,O
+Mate Miso Kovac,Sve što mi život pruža,Zwn2Yv0K_79,što,Pi3n-n,što,O
+Mate Miso Kovac,Sve što mi život pruža,Zwn2Yv0K_79,mi,Pp1-sd,ja,O
+Mate Miso Kovac,Sve što mi život pruža,Zwn2Yv0K_79,život,Ncmsn,život,O
+Mate Miso Kovac,Sve što mi život pruža,Zwn2Yv0K_79,pruža,Vmr3s,pružati,O
+Mate Miso Kovac,"Svi pjevaju, ja ne čujem",Zwn2Yv0K_80,Svi,Agpmpny,sav,O
+Mate Miso Kovac,"Svi pjevaju, ja ne čujem",Zwn2Yv0K_80,pjevaju,Vmr3p,pjevati,O
+Mate Miso Kovac,"Svi pjevaju, ja ne čujem",Zwn2Yv0K_80,",",Z,",",O
+Mate Miso Kovac,"Svi pjevaju, ja ne čujem",Zwn2Yv0K_80,ja,Pp1-sn,ja,O
+Mate Miso Kovac,"Svi pjevaju, ja ne čujem",Zwn2Yv0K_80,ne,Qz,ne,O
+Mate Miso Kovac,"Svi pjevaju, ja ne čujem",Zwn2Yv0K_80,čujem,Vmr1s,čuti,O
+Mate Miso Kovac,Šibenska balada,Zwn2Yv0K_81,Šibenska,Agpfsny,šibenski,O
+Mate Miso Kovac,Šibenska balada,Zwn2Yv0K_81,balada,Ncfsn,balada,O
+Mate Miso Kovac,Što je to u meni prokleto,Zwn2Yv0K_82,Što,Pq3n-n,što,O
+Mate Miso Kovac,Što je to u meni prokleto,Zwn2Yv0K_82,je,Var3s,biti,O
+Mate Miso Kovac,Što je to u meni prokleto,Zwn2Yv0K_82,to,Pd-nsn,taj,O
+Mate Miso Kovac,Što je to u meni prokleto,Zwn2Yv0K_82,u,Sl,u,O
+Mate Miso Kovac,Što je to u meni prokleto,Zwn2Yv0K_82,meni,Ncfsl,ja,O
+Mate Miso Kovac,Što je to u meni prokleto,Zwn2Yv0K_82,prokleto,Rgp,prokleto,O
+Mate Miso Kovac,"Šuti srce, mogli bi te čuti",Zwn2Yv0K_83,Šuti,Vmr3s,šutiti,O
+Mate Miso Kovac,"Šuti srce, mogli bi te čuti",Zwn2Yv0K_83,srce,Ncnsa,srce,O
+Mate Miso Kovac,"Šuti srce, mogli bi te čuti",Zwn2Yv0K_83,",",Z,",",O
+Mate Miso Kovac,"Šuti srce, mogli bi te čuti",Zwn2Yv0K_83,mogli,Vmp-pm,moći,O
+Mate Miso Kovac,"Šuti srce, mogli bi te čuti",Zwn2Yv0K_83,bi,Vaa3p,biti,O
+Mate Miso Kovac,"Šuti srce, mogli bi te čuti",Zwn2Yv0K_83,te,Pp2-sa,ti,O
+Mate Miso Kovac,"Šuti srce, mogli bi te čuti",Zwn2Yv0K_83,čuti,Vmn,čuti,O
+Mate Miso Kovac,Ti mi budi vjerna,Zwn2Yv0K_84,Ti,Pp2-sd,ti,O
+Mate Miso Kovac,Ti mi budi vjerna,Zwn2Yv0K_84,mi,Pp1-sd,ja,O
+Mate Miso Kovac,Ti mi budi vjerna,Zwn2Yv0K_84,budi,Vmr3s,buditi,O
+Mate Miso Kovac,Ti mi budi vjerna,Zwn2Yv0K_84,vjerna,Agpfsny,vjeran,O
+Mate Miso Kovac,Ti si pjesma moje duše (alter),Zwn2Yv0K_85,Ti,Pp2-sn,ti,O
+Mate Miso Kovac,Ti si pjesma moje duše (alter),Zwn2Yv0K_85,si,Var2s,biti,O
+Mate Miso Kovac,Ti si pjesma moje duše (alter),Zwn2Yv0K_85,pjesma,Ncfsn,pjesma,O
+Mate Miso Kovac,Ti si pjesma moje duše (alter),Zwn2Yv0K_85,moje,Ps1fsg,moj,O
+Mate Miso Kovac,Ti si pjesma moje duše (alter),Zwn2Yv0K_85,duše,Ncfsg,duša,O
+Mate Miso Kovac,Ti si pjesma moje duše (alter),Zwn2Yv0K_85,(,Z,(,O
+Mate Miso Kovac,Ti si pjesma moje duše (alter),Zwn2Yv0K_85,alter,Ncmsn,alter,O
+Mate Miso Kovac,Ti si pjesma moje duše (alter),Zwn2Yv0K_85,),Z,),O
+Mate Miso Kovac,To se zove ljubav,Zwn2Yv0K_86,To,Pd-nsn,taj,O
+Mate Miso Kovac,To se zove ljubav,Zwn2Yv0K_86,se,Px--sa,sebe,O
+Mate Miso Kovac,To se zove ljubav,Zwn2Yv0K_86,zove,Vmr3s,zvati,O
+Mate Miso Kovac,To se zove ljubav,Zwn2Yv0K_86,ljubav,Ncfsn,ljubav,O
+Mate Miso Kovac,Tužno srce moje,Zwn2Yv0K_87,Tužno,Agpnsny,tužan,O
+Mate Miso Kovac,Tužno srce moje,Zwn2Yv0K_87,srce,Ncnsn,srce,O
+Mate Miso Kovac,Tužno srce moje,Zwn2Yv0K_87,moje,Ncfsg,moj,O
+Mate Miso Kovac,U svakoj te ženi pokušavam naći,Zwn2Yv0K_88,U,Sl,u,O
+Mate Miso Kovac,U svakoj te ženi pokušavam naći,Zwn2Yv0K_88,svakoj,Pi-fsl,svaki,O
+Mate Miso Kovac,U svakoj te ženi pokušavam naći,Zwn2Yv0K_88,te,Cc,te,O
+Mate Miso Kovac,U svakoj te ženi pokušavam naći,Zwn2Yv0K_88,ženi,Ncfsl,žena,O
+Mate Miso Kovac,U svakoj te ženi pokušavam naći,Zwn2Yv0K_88,pokušavam,Vmr1s,pokušavati,O
+Mate Miso Kovac,U svakoj te ženi pokušavam naći,Zwn2Yv0K_88,naći,Vmn,naći,O
+Mate Miso Kovac,Varljivo ljeto,Zwn2Yv0K_89,Varljivo,Agpnsny,varljiv,O
+Mate Miso Kovac,Varljivo ljeto,Zwn2Yv0K_89,ljeto,Ncnsn,ljeto,O
+Mate Miso Kovac,Više se nećeš vratiti,Zwn2Yv0K_90,Više,Rgc,mnogo,O
+Mate Miso Kovac,Više se nećeš vratiti,Zwn2Yv0K_90,se,Px--sa,sebe,O
+Mate Miso Kovac,Više se nećeš vratiti,Zwn2Yv0K_90,nećeš,Var2s,htjeti,O
+Mate Miso Kovac,Više se nećeš vratiti,Zwn2Yv0K_90,vratiti,Vmn,vratiti,O
+Mate Miso Kovac,Volim te za sva vrimena,Zwn2Yv0K_91,Volim,Vmr1s,voljeti,O
+Mate Miso Kovac,Volim te za sva vrimena,Zwn2Yv0K_91,te,Pp2-sa,ti,O
+Mate Miso Kovac,Volim te za sva vrimena,Zwn2Yv0K_91,za,Sa,za,O
+Mate Miso Kovac,Volim te za sva vrimena,Zwn2Yv0K_91,sva,Agpnpay,sav,O
+Mate Miso Kovac,Volim te za sva vrimena,Zwn2Yv0K_91,vrimena,Ncnpa,vrime,O
+Mate Miso Kovac,Vrelo mog života,Zwn2Yv0K_92,Vrelo,Ncnsn,vrelo,O
+Mate Miso Kovac,Vrelo mog života,Zwn2Yv0K_92,mog,Ps1msg,moj,O
+Mate Miso Kovac,Vrelo mog života,Zwn2Yv0K_92,života,Ncmsg,život,O
+Mate Miso Kovac,Za kim zvono plače,Zwn2Yv0K_93,Za,Sa,za,O
+Mate Miso Kovac,Za kim zvono plače,Zwn2Yv0K_93,kim,Ncmsan,kim,O
+Mate Miso Kovac,Za kim zvono plače,Zwn2Yv0K_93,zvono,Ncnsa,zvono,O
+Mate Miso Kovac,Za kim zvono plače,Zwn2Yv0K_93,plače,Vmr3s,plakati,O
+Mate Miso Kovac,Za tvoju ljubav sve bih dao,Zwn2Yv0K_94,Za,Sa,za,O
+Mate Miso Kovac,Za tvoju ljubav sve bih dao,Zwn2Yv0K_94,tvoju,Pd-fsa,tvoj,O
+Mate Miso Kovac,Za tvoju ljubav sve bih dao,Zwn2Yv0K_94,ljubav,Ncfsa,ljubav,O
+Mate Miso Kovac,Za tvoju ljubav sve bih dao,Zwn2Yv0K_94,sve,Agpnsay,sav,O
+Mate Miso Kovac,Za tvoju ljubav sve bih dao,Zwn2Yv0K_94,bih,Vaa1s,biti,O
+Mate Miso Kovac,Za tvoju ljubav sve bih dao,Zwn2Yv0K_94,dao,Vmp-sm,dati,O
+Mate Miso Kovac,Zalij to cvijeće suzama sreće,Zwn2Yv0K_95,Zalij,Vmm2s,zaliti,O
+Mate Miso Kovac,Zalij to cvijeće suzama sreće,Zwn2Yv0K_95,to,Pd-nsa,taj,O
+Mate Miso Kovac,Zalij to cvijeće suzama sreće,Zwn2Yv0K_95,cvijeće,Ncnsa,cvijeće,O
+Mate Miso Kovac,Zalij to cvijeće suzama sreće,Zwn2Yv0K_95,suzama,Ncmpg,suza,O
+Mate Miso Kovac,Zalij to cvijeće suzama sreće,Zwn2Yv0K_95,sreće,Ncfsg,sreća,O
+Mate Miso Kovac,Zaplešimo stara,Zwn2Yv0K_96,Zaplešimo,Vmm1p,zaplesati,O
+Mate Miso Kovac,Zaplešimo stara,Zwn2Yv0K_96,stara,Agpfsny,star,O
+Mate Miso Kovac,"Zbog tebe, ljubavi moja",Zwn2Yv0K_97,Zbog,Sg,zbog,O
+Mate Miso Kovac,"Zbog tebe, ljubavi moja",Zwn2Yv0K_97,tebe,Pp2-sg,ti,O
+Mate Miso Kovac,"Zbog tebe, ljubavi moja",Zwn2Yv0K_97,",",Z,",",O
+Mate Miso Kovac,"Zbog tebe, ljubavi moja",Zwn2Yv0K_97,ljubavi,Ncfsg,ljubav,O
+Mate Miso Kovac,"Zbog tebe, ljubavi moja",Zwn2Yv0K_97,moja,Ps1fsn,moj,O
+Mate Miso Kovac,Zbogom zvijezdo,Zwn2Yv0K_98,Zbogom,Qo,zbogom,O
+Mate Miso Kovac,Zbogom zvijezdo,Zwn2Yv0K_98,zvijezdo,Ncfsv,zvijezda,O
+Mate Miso Kovac,"Zeleno, zeleno",Zwn2Yv0K_99,Zeleno,Agpnsny,zelen,O
+Mate Miso Kovac,"Zeleno, zeleno",Zwn2Yv0K_99,",",Z,",",O
+Mate Miso Kovac,"Zeleno, zeleno",Zwn2Yv0K_99,zeleno,Agpnsny,zelen,O
+Mate Miso Kovac,Znam da si sama,Zwn2Yv0K_100,Znam,Vmr1s,znati,O
+Mate Miso Kovac,Znam da si sama,Zwn2Yv0K_100,da,Cs,da,O
+Mate Miso Kovac,Znam da si sama,Zwn2Yv0K_100,si,Var2s,biti,O
+Mate Miso Kovac,Znam da si sama,Zwn2Yv0K_100,sama,Agpfsny,sam,O
+Mate Miso Kovac,Žena s juga,Zwn2Yv0K_101,Žena,Ncfsn,žena,O
+Mate Miso Kovac,Žena s juga,Zwn2Yv0K_101,s,Sg,sa,O
+Mate Miso Kovac,Žena s juga,Zwn2Yv0K_101,juga,Ncmsg,jug,O
+Novi fosili,Ako se rastanemo,oOIOCzZV_0,Ako,Cs,ako,O
+Novi fosili,Ako se rastanemo,oOIOCzZV_0,se,Px--sa,sebe,O
+Novi fosili,Ako se rastanemo,oOIOCzZV_0,rastanemo,Vmr1p,rastati,O
+Novi fosili,Bilo mi je prvi put,oOIOCzZV_1,Bilo,Vap-sn,biti,O
+Novi fosili,Bilo mi je prvi put,oOIOCzZV_1,mi,Pp1-sd,ja,O
+Novi fosili,Bilo mi je prvi put,oOIOCzZV_1,je,Var3s,biti,O
+Novi fosili,Bilo mi je prvi put,oOIOCzZV_1,prvi,Mlomsan,prvi,O
+Novi fosili,Bilo mi je prvi put,oOIOCzZV_1,put,Rgp,put,O
+Novi fosili,"Čuješ li me, je l' ti drago",oOIOCzZV_2,Čuješ,Vmr2s,čuti,O
+Novi fosili,"Čuješ li me, je l' ti drago",oOIOCzZV_2,li,Cs,li,O
+Novi fosili,"Čuješ li me, je l' ti drago",oOIOCzZV_2,me,Pp1-sa,ja,O
+Novi fosili,"Čuješ li me, je l' ti drago",oOIOCzZV_2,",",Z,",",O
+Novi fosili,"Čuješ li me, je l' ti drago",oOIOCzZV_2,je,Var3s,biti,O
+Novi fosili,"Čuješ li me, je l' ti drago",oOIOCzZV_2,l,Agpnsny,l,O
+Novi fosili,"Čuješ li me, je l' ti drago",oOIOCzZV_2,',Z,',O
+Novi fosili,"Čuješ li me, je l' ti drago",oOIOCzZV_2,ti,Pp2-sn,ti,O
+Novi fosili,"Čuješ li me, je l' ti drago",oOIOCzZV_2,drago,Rgp,drago,O
+Novi fosili,Dijete sreće,oOIOCzZV_3,Dijete,Ncnsn,dijete,O
+Novi fosili,Dijete sreće,oOIOCzZV_3,sreće,Ncfsg,sreća,O
+Novi fosili,Djeca ljubavi,oOIOCzZV_4,Djeca,Ncnpn,dijete,O
+Novi fosili,Djeca ljubavi,oOIOCzZV_4,ljubavi,Ncfsg,ljubav,O
+Novi fosili,Dobre djevojke,oOIOCzZV_5,Dobre,Agpfpny,dobar,O
+Novi fosili,Dobre djevojke,oOIOCzZV_5,djevojke,Ncfpn,djevojka,O
+Novi fosili,E da si barem noćas ovdje,oOIOCzZV_6,E,I,e,O
+Novi fosili,E da si barem noćas ovdje,oOIOCzZV_6,da,Cs,da,O
+Novi fosili,E da si barem noćas ovdje,oOIOCzZV_6,si,Var2s,biti,O
+Novi fosili,E da si barem noćas ovdje,oOIOCzZV_6,barem,Qo,barem,O
+Novi fosili,E da si barem noćas ovdje,oOIOCzZV_6,noćas,Rgp,noćas,O
+Novi fosili,E da si barem noćas ovdje,oOIOCzZV_6,ovdje,Rgp,ovdje,O
+Novi fosili,Hoću li znati,oOIOCzZV_7,Hoću,Vmr1s,htjeti,O
+Novi fosili,Hoću li znati,oOIOCzZV_7,li,Qq,li,O
+Novi fosili,Hoću li znati,oOIOCzZV_7,znati,Vmn,znati,O
+Novi fosili,Ja sam za ples,oOIOCzZV_8,Ja,Pp1-sn,ja,O
+Novi fosili,Ja sam za ples,oOIOCzZV_8,sam,Var1s,biti,O
+Novi fosili,Ja sam za ples,oOIOCzZV_8,za,Sa,za,O
+Novi fosili,Ja sam za ples,oOIOCzZV_8,ples,Ncmsan,ples,O
+Novi fosili,Jedna suza,oOIOCzZV_9,Jedna,Mlcfsn,jedan,O
+Novi fosili,Jedna suza,oOIOCzZV_9,suza,Ncfsn,suza,O
+Novi fosili,"Joj, joj",oOIOCzZV_10,Joj,I,joj,O
+Novi fosili,"Joj, joj",oOIOCzZV_10,",",Z,",",O
+Novi fosili,"Joj, joj",oOIOCzZV_10,joj,Pp3fsd,on,O
+Novi fosili,Kad budemo ja i ti,oOIOCzZV_11,Kad,Cs,kad,O
+Novi fosili,Kad budemo ja i ti,oOIOCzZV_11,budemo,Var1p,biti,O
+Novi fosili,Kad budemo ja i ti,oOIOCzZV_11,ja,Pp1-sn,ja,O
+Novi fosili,Kad budemo ja i ti,oOIOCzZV_11,i,Cc,i,O
+Novi fosili,Kad budemo ja i ti,oOIOCzZV_11,ti,Pp2-sn,ti,O
+Novi fosili,Kad naš brod plovi,oOIOCzZV_12,Kad,Cs,kad,O
+Novi fosili,Kad naš brod plovi,oOIOCzZV_12,naš,Ps1msn,naš,O
+Novi fosili,Kad naš brod plovi,oOIOCzZV_12,brod,Ncmsn,brod,O
+Novi fosili,Kad naš brod plovi,oOIOCzZV_12,plovi,Vmr3s,ploviti,O
+Novi fosili,Ključ je ispod otirača,oOIOCzZV_13,Ključ,Ncmsn,ključ,O
+Novi fosili,Ključ je ispod otirača,oOIOCzZV_13,je,Var3s,biti,O
+Novi fosili,Ključ je ispod otirača,oOIOCzZV_13,ispod,Sg,ispod,O
+Novi fosili,Ključ je ispod otirača,oOIOCzZV_13,otirača,Ncmpg,otirač,O
+Novi fosili,Kuca srce moje,oOIOCzZV_14,Kuca,Vmr3s,kucati,O
+Novi fosili,Kuca srce moje,oOIOCzZV_14,srce,Ncnsa,srce,O
+Novi fosili,Kuca srce moje,oOIOCzZV_14,moje,Ps1fsg,moj,O
+Novi fosili,Ljubav koja nema kraja,oOIOCzZV_15,Ljubav,Ncfsn,ljubav,O
+Novi fosili,Ljubav koja nema kraja,oOIOCzZV_15,koja,Pi-fsn,koji,O
+Novi fosili,Ljubav koja nema kraja,oOIOCzZV_15,nema,Vmr3s,nemati,O
+Novi fosili,Ljubav koja nema kraja,oOIOCzZV_15,kraja,Ncmsg,kraj,O
+Novi fosili,Mali Ćiro,oOIOCzZV_16,Mali,Agpmsny,mali,O
+Novi fosili,Mali Ćiro,oOIOCzZV_16,Ćiro,Npmsn,Ćiro,B-per
+Novi fosili,Mario,oOIOCzZV_17,Mario,Vmp-sm,mariti,O
+Novi fosili,Mimi,oOIOCzZV_18,Mimi,Ncmpn,mim,O
+Novi fosili,Najdraže moje,oOIOCzZV_19,Najdraže,Rgs,drago,O
+Novi fosili,Najdraže moje,oOIOCzZV_19,moje,Ps1fsg,moj,O
+Novi fosili,Ne plaši se,oOIOCzZV_20,Ne,Qz,ne,O
+Novi fosili,Ne plaši se,oOIOCzZV_20,plaši,Vmr3s,plašiti,O
+Novi fosili,Ne plaši se,oOIOCzZV_20,se,Px--sa,sebe,O
+Novi fosili,Neka vali gingolaju svoje barke,oOIOCzZV_21,Neka,Qo,neka,O
+Novi fosili,Neka vali gingolaju svoje barke,oOIOCzZV_21,vali,Ncmpn,val,O
+Novi fosili,Neka vali gingolaju svoje barke,oOIOCzZV_21,gingolaju,Vmr3p,gingolati,O
+Novi fosili,Neka vali gingolaju svoje barke,oOIOCzZV_21,svoje,Px-fpa,svoj,O
+Novi fosili,Neka vali gingolaju svoje barke,oOIOCzZV_21,barke,Ncfpa,barka,O
+Novi fosili,Neveni žuti,oOIOCzZV_22,Neveni,Ncmpn,neven,O
+Novi fosili,Neveni žuti,oOIOCzZV_22,žuti,Agpmpny,žut,O
+Novi fosili,Nikad više staro vino,oOIOCzZV_23,Nikad,Rgp,nikad,O
+Novi fosili,Nikad više staro vino,oOIOCzZV_23,više,Rgc,mnogo,O
+Novi fosili,Nikad više staro vino,oOIOCzZV_23,staro,Agpnsny,star,O
+Novi fosili,Nikad više staro vino,oOIOCzZV_23,vino,Ncnsn,vino,O
+Novi fosili,Noćas umiru stare ljubavi,oOIOCzZV_24,Noćas,Rgp,noćas,O
+Novi fosili,Noćas umiru stare ljubavi,oOIOCzZV_24,umiru,Vmr3p,umirati,O
+Novi fosili,Noćas umiru stare ljubavi,oOIOCzZV_24,stare,Agpfsgy,star,O
+Novi fosili,Noćas umiru stare ljubavi,oOIOCzZV_24,ljubavi,Ncfsg,ljubav,O
+Novi fosili,Obriši suze generacijo,oOIOCzZV_25,Obriši,Vmm2s,obrisati,O
+Novi fosili,Obriši suze generacijo,oOIOCzZV_25,suze,Ncfpa,suza,O
+Novi fosili,Obriši suze generacijo,oOIOCzZV_25,generacijo,Cs,generacija,O
+Novi fosili,Pazi da ne nazebeš,oOIOCzZV_26,Pazi,Vmm2s,paziti,O
+Novi fosili,Pazi da ne nazebeš,oOIOCzZV_26,da,Cs,da,O
+Novi fosili,Pazi da ne nazebeš,oOIOCzZV_26,ne,Qz,ne,O
+Novi fosili,Pazi da ne nazebeš,oOIOCzZV_26,nazebeš,Vmr2s,nazebati,O
+Novi fosili,Poslije svega,oOIOCzZV_27,Poslije,Sg,poslije,O
+Novi fosili,Poslije svega,oOIOCzZV_27,svega,Agpnsgy,sav,O
+Novi fosili,Radije budi mi brat,oOIOCzZV_28,Radije,Rgc,radije,O
+Novi fosili,Radije budi mi brat,oOIOCzZV_28,budi,Vmr3s,buditi,O
+Novi fosili,Radije budi mi brat,oOIOCzZV_28,mi,Pp1-sd,ja,O
+Novi fosili,Radije budi mi brat,oOIOCzZV_28,brat,Ncmsn,brat,O
+Novi fosili,"Reci mi tiho, tiho",oOIOCzZV_29,Reci,Vmm2s,reći,O
+Novi fosili,"Reci mi tiho, tiho",oOIOCzZV_29,mi,Pp1-sd,ja,O
+Novi fosili,"Reci mi tiho, tiho",oOIOCzZV_29,tiho,Rgp,tiho,O
+Novi fosili,"Reci mi tiho, tiho",oOIOCzZV_29,",",Z,",",O
+Novi fosili,"Reci mi tiho, tiho",oOIOCzZV_29,tiho,Rgp,tiho,O
+Novi fosili,Samo mi se javi,oOIOCzZV_30,Samo,Rgp,samo,O
+Novi fosili,Samo mi se javi,oOIOCzZV_30,mi,Pp1-sd,ja,O
+Novi fosili,Samo mi se javi,oOIOCzZV_30,se,Px--sa,sebe,O
+Novi fosili,Samo mi se javi,oOIOCzZV_30,javi,Vmr3s,javiti,O
+Novi fosili,Sanjaj me,oOIOCzZV_31,Sanjaj,Vmm2s,sanjati,O
+Novi fosili,Sanjaj me,oOIOCzZV_31,me,Pp1-sa,ja,O
+Novi fosili,Simpatija,oOIOCzZV_32,Simpatija,Ncfsn,simpatija,O
+Novi fosili,Sklopi oči,oOIOCzZV_33,Sklopi,Vmr3s,sklopiti,O
+Novi fosili,Sklopi oči,oOIOCzZV_33,oči,Ncfpa,oko,O
+Novi fosili,Šu šu,oOIOCzZV_34,Šu,Agpfsay,ši,O
+Novi fosili,Šu šu,oOIOCzZV_34,šu,Ncfsa,ša,O
+Novi fosili,Tako je malo riječi palo,oOIOCzZV_35,Tako,Rgp,tako,O
+Novi fosili,Tako je malo riječi palo,oOIOCzZV_35,je,Var3s,biti,O
+Novi fosili,Tako je malo riječi palo,oOIOCzZV_35,malo,Rgp,malo,O
+Novi fosili,Tako je malo riječi palo,oOIOCzZV_35,riječi,Ncfpg,riječ,O
+Novi fosili,Tako je malo riječi palo,oOIOCzZV_35,palo,Vmp-sn,pasti,O
+Novi fosili,Tonka,oOIOCzZV_36,Tonka,Ncfsn,tonka,B-per
+Novi fosili,Tvoje plave kose,oOIOCzZV_37,Tvoje,Ncfpn,tvoj,O
+Novi fosili,Tvoje plave kose,oOIOCzZV_37,plave,Agpfsgy,plav,O
+Novi fosili,Tvoje plave kose,oOIOCzZV_37,kose,Ncfsg,kosa,O
+Novi fosili,Vrijeme,oOIOCzZV_38,Vrijeme,Ncnsn,vrijeme,O
+Novi fosili,Za domovinu našu,oOIOCzZV_39,Za,Sa,za,O
+Novi fosili,Za domovinu našu,oOIOCzZV_39,domovinu,Ncfsa,domovina,O
+Novi fosili,Za domovinu našu,oOIOCzZV_39,našu,Ps1fsa,naš,O
+Novi fosili,Zbogom,oOIOCzZV_40,Zbogom,Qo,zbogom,O
+Novi fosili,Zovem te,oOIOCzZV_41,Zovem,Vmr1s,zvati,O
+Novi fosili,Zovem te,oOIOCzZV_41,te,Pp2-sa,ti,O
+Novi fosili,Bilo je prelijepo,oOIOCzZV_0,Bilo,Vap-sn,biti,O
+Novi fosili,Bilo je prelijepo,oOIOCzZV_0,je,Var3s,biti,O
+Novi fosili,Bilo je prelijepo,oOIOCzZV_0,prelijepo,Agpnsny,prelijep,O
+Novi fosili,Budi uvijek blizu (kao što si sada),oOIOCzZV_1,Budi,Vmr3s,buditi,O
+Novi fosili,Budi uvijek blizu (kao što si sada),oOIOCzZV_1,uvijek,Rgp,uvijek,O
+Novi fosili,Budi uvijek blizu (kao što si sada),oOIOCzZV_1,blizu,Rgp,blizu,O
+Novi fosili,Budi uvijek blizu (kao što si sada),oOIOCzZV_1,(,Z,(,O
+Novi fosili,Budi uvijek blizu (kao što si sada),oOIOCzZV_1,kao,Cs,kao,O
+Novi fosili,Budi uvijek blizu (kao što si sada),oOIOCzZV_1,što,Cs,što,O
+Novi fosili,Budi uvijek blizu (kao što si sada),oOIOCzZV_1,si,Var2s,biti,O
+Novi fosili,Budi uvijek blizu (kao što si sada),oOIOCzZV_1,sada,Rgp,sada,O
+Novi fosili,Budi uvijek blizu (kao što si sada),oOIOCzZV_1,),Z,),O
+Novi fosili,Da te ne volim,oOIOCzZV_2,Da,Cs,da,O
+Novi fosili,Da te ne volim,oOIOCzZV_2,te,Pp2-sa,ti,O
+Novi fosili,Da te ne volim,oOIOCzZV_2,ne,Qz,ne,O
+Novi fosili,Da te ne volim,oOIOCzZV_2,volim,Vmr1s,voljeti,O
+Novi fosili,Diridonda,oOIOCzZV_3,Diridonda,Npfsn,Diridonda,B-misc
+Novi fosili,Djeca smo,oOIOCzZV_4,Djeca,Ncnpn,dijete,O
+Novi fosili,Djeca smo,oOIOCzZV_4,smo,Var1p,biti,O
+Novi fosili,Dunjo mirisna,oOIOCzZV_5,Dunjo,Ncfsv,dunja,O
+Novi fosili,Dunjo mirisna,oOIOCzZV_5,mirisna,Agpfsny,mirisan,O
+Novi fosili,E moj Saša,oOIOCzZV_6,E,I,e,O
+Novi fosili,E moj Saša,oOIOCzZV_6,moj,Ps1msn,moj,O
+Novi fosili,E moj Saša,oOIOCzZV_6,Saša,Npmsn,Saša,B-per
+Novi fosili,Ispod mjeseca boje trešanja,oOIOCzZV_7,Ispod,Sg,ispod,O
+Novi fosili,Ispod mjeseca boje trešanja,oOIOCzZV_7,mjeseca,Ncmsg,mjesec,O
+Novi fosili,Ispod mjeseca boje trešanja,oOIOCzZV_7,boje,Ncfsg,boja,O
+Novi fosili,Ispod mjeseca boje trešanja,oOIOCzZV_7,trešanja,Ncfpg,trešnja,O
+Novi fosili,Jedna duša,oOIOCzZV_8,Jedna,Mlcfsn,jedan,O
+Novi fosili,Jedna duša,oOIOCzZV_8,duša,Ncfsn,duša,O
+Novi fosili,Jesen je,oOIOCzZV_9,Jesen,Ncfsn,jesen,O
+Novi fosili,Jesen je,oOIOCzZV_9,je,Var3s,biti,O
+Novi fosili,Još te volim,oOIOCzZV_10,Još,Rgp,još,O
+Novi fosili,Još te volim,oOIOCzZV_10,te,Pp2-sa,ti,O
+Novi fosili,Još te volim,oOIOCzZV_10,volim,Vmr1s,voljeti,O
+Novi fosili,Kad godine prođu,oOIOCzZV_11,Kad,Cs,kad,O
+Novi fosili,Kad godine prođu,oOIOCzZV_11,godine,Ncfpn,godina,O
+Novi fosili,Kad godine prođu,oOIOCzZV_11,prođu,Vmr3p,proći,O
+Novi fosili,"Kaži mi, mama",oOIOCzZV_12,Kaži,Vmm2s,kazati,O
+Novi fosili,"Kaži mi, mama",oOIOCzZV_12,mi,Pp1-sd,ja,O
+Novi fosili,"Kaži mi, mama",oOIOCzZV_12,",",Z,",",O
+Novi fosili,"Kaži mi, mama",oOIOCzZV_12,mama,Ncfsn,mama,O
+Novi fosili,Kralj ljubavi,oOIOCzZV_13,Kralj,Ncmsn,kralj,O
+Novi fosili,Kralj ljubavi,oOIOCzZV_13,ljubavi,Ncfsg,ljubav,O
+Novi fosili,Lastavice mala,oOIOCzZV_14,Lastavice,Ncfpn,lastavica,O
+Novi fosili,Lastavice mala,oOIOCzZV_14,mala,Agpfsny,mali,O
+Novi fosili,Majčine oči,oOIOCzZV_15,Majčine,Agpfpny,majčin,O
+Novi fosili,Majčine oči,oOIOCzZV_15,oči,Ncfpn,oko,O
+Novi fosili,Marina iz moje ulice,oOIOCzZV_16,Marina,Ncfsn,marina,O
+Novi fosili,Marina iz moje ulice,oOIOCzZV_16,iz,Sg,iz,O
+Novi fosili,Marina iz moje ulice,oOIOCzZV_16,moje,Ps1fsg,moj,O
+Novi fosili,Marina iz moje ulice,oOIOCzZV_16,ulice,Ncfsg,ulica,O
+Novi fosili,Milena,oOIOCzZV_17,Milena,Npfsn,Milena,B-per
+Novi fosili,Moj prijatelj Anu ljubi,oOIOCzZV_18,Moj,Ps1msn,moj,O
+Novi fosili,Moj prijatelj Anu ljubi,oOIOCzZV_18,prijatelj,Ncmsn,prijatelj,O
+Novi fosili,Moj prijatelj Anu ljubi,oOIOCzZV_18,Anu,Npfsa,Ana,B-per
+Novi fosili,Moj prijatelj Anu ljubi,oOIOCzZV_18,ljubi,Vmr3s,ljubiti,O
+Novi fosili,Ne budi me mati,oOIOCzZV_19,Ne,Qz,ne,O
+Novi fosili,Ne budi me mati,oOIOCzZV_19,budi,Vmr3s,buditi,O
+Novi fosili,Ne budi me mati,oOIOCzZV_19,me,Pp1-sa,ja,O
+Novi fosili,Ne budi me mati,oOIOCzZV_19,mati,Vmn,mati,O
+Novi fosili,Nebeske kočije,oOIOCzZV_20,Nebeske,Agpfsgy,nebeski,O
+Novi fosili,Nebeske kočije,oOIOCzZV_20,kočije,Ncfsg,kočija,O
+Novi fosili,Nemaš više vremena za mene,oOIOCzZV_21,Nemaš,Vmr2s,nemati,O
+Novi fosili,Nemaš više vremena za mene,oOIOCzZV_21,više,Rgc,mnogo,O
+Novi fosili,Nemaš više vremena za mene,oOIOCzZV_21,vremena,Ncnsg,vrijeme,O
+Novi fosili,Nemaš više vremena za mene,oOIOCzZV_21,za,Sa,za,O
+Novi fosili,Nemaš više vremena za mene,oOIOCzZV_21,mene,Pp1-sa,ja,O
+Novi fosili,Nije istina,oOIOCzZV_22,Nije,Var3s,biti,O
+Novi fosili,Nije istina,oOIOCzZV_22,istina,Ncfsn,istina,O
+Novi fosili,Nikog nema da mu kažem,oOIOCzZV_23,Nikog,Pi3m-a,nitko,O
+Novi fosili,Nikog nema da mu kažem,oOIOCzZV_23,nema,Vmr3s,nemati,O
+Novi fosili,Nikog nema da mu kažem,oOIOCzZV_23,da,Cs,da,O
+Novi fosili,Nikog nema da mu kažem,oOIOCzZV_23,mu,Pp3msd,on,O
+Novi fosili,Nikog nema da mu kažem,oOIOCzZV_23,kažem,Vmr1s,kazati,O
+Novi fosili,O ne (sad je kasno),oOIOCzZV_24,O,Sl,o,O
+Novi fosili,O ne (sad je kasno),oOIOCzZV_24,ne,Qz,ne,O
+Novi fosili,O ne (sad je kasno),oOIOCzZV_24,(,Z,(,O
+Novi fosili,O ne (sad je kasno),oOIOCzZV_24,sad,Rgp,sad,O
+Novi fosili,O ne (sad je kasno),oOIOCzZV_24,je,Var3s,biti,O
+Novi fosili,O ne (sad je kasno),oOIOCzZV_24,kasno,Rgp,kasno,O
+Novi fosili,O ne (sad je kasno),oOIOCzZV_24,),Z,),O
+Novi fosili,Otišao je on,oOIOCzZV_25,Otišao,Vmp-sm,otići,O
+Novi fosili,Otišao je on,oOIOCzZV_25,je,Var3s,biti,O
+Novi fosili,Otišao je on,oOIOCzZV_25,on,Pp3msn,on,O
+Novi fosili,Plava košulja,oOIOCzZV_26,Plava,Agpfsny,plav,O
+Novi fosili,Plava košulja,oOIOCzZV_26,košulja,Ncfsn,košulja,O
+Novi fosili,Pričaj mi o ljubavi,oOIOCzZV_27,Pričaj,Vmm2s,pričati,O
+Novi fosili,Pričaj mi o ljubavi,oOIOCzZV_27,mi,Pp1-sd,ja,O
+Novi fosili,Pričaj mi o ljubavi,oOIOCzZV_27,o,Sl,o,O
+Novi fosili,Pričaj mi o ljubavi,oOIOCzZV_27,ljubavi,Ncfsl,ljubav,O
+Novi fosili,Razumljiva pjesma (kad sam bio mlad),oOIOCzZV_28,Razumljiva,Agpfsny,razumljiv,O
+Novi fosili,Razumljiva pjesma (kad sam bio mlad),oOIOCzZV_28,pjesma,Ncfsn,pjesma,O
+Novi fosili,Razumljiva pjesma (kad sam bio mlad),oOIOCzZV_28,(,Z,(,O
+Novi fosili,Razumljiva pjesma (kad sam bio mlad),oOIOCzZV_28,kad,Rgp,kad,O
+Novi fosili,Razumljiva pjesma (kad sam bio mlad),oOIOCzZV_28,sam,Var1s,biti,O
+Novi fosili,Razumljiva pjesma (kad sam bio mlad),oOIOCzZV_28,bio,Vap-sm,biti,O
+Novi fosili,Razumljiva pjesma (kad sam bio mlad),oOIOCzZV_28,mlad,Agpmsnn,mlad,O
+Novi fosili,Razumljiva pjesma (kad sam bio mlad),oOIOCzZV_28,),Z,),O
+Novi fosili,Sama,oOIOCzZV_29,Sama,Agpfsny,sam,O
+Novi fosili,Sanja,oOIOCzZV_30,Sanja,Vmr3s,sanjati,O
+Novi fosili,Sedam dugih godina,oOIOCzZV_31,Sedam,Mlc,sedam,O
+Novi fosili,Sedam dugih godina,oOIOCzZV_31,dugih,Agpfpgy,dug,O
+Novi fosili,Sedam dugih godina,oOIOCzZV_31,godina,Ncfpg,godina,O
+Novi fosili,Sjećam se još,oOIOCzZV_32,Sjećam,Vmr1s,sjećati,O
+Novi fosili,Sjećam se još,oOIOCzZV_32,se,Px--sa,sebe,O
+Novi fosili,Sjećam se još,oOIOCzZV_32,još,Rgp,još,O
+Novi fosili,Šta se smiješ klipane,oOIOCzZV_33,Šta,Pi3n-n,što,O
+Novi fosili,Šta se smiješ klipane,oOIOCzZV_33,se,Px--sa,sebe,O
+Novi fosili,Šta se smiješ klipane,oOIOCzZV_33,smiješ,Vmr2s,smjeti,O
+Novi fosili,Šta se smiješ klipane,oOIOCzZV_33,klipane,Ncmpa,klipan,O
+Novi fosili,Šuti moj dječače plavi,oOIOCzZV_34,Šuti,Ncfsl,šuta,O
+Novi fosili,Šuti moj dječače plavi,oOIOCzZV_34,moj,Ps1msn,moj,O
+Novi fosili,Šuti moj dječače plavi,oOIOCzZV_34,dječače,Ncmsv,dječak,O
+Novi fosili,Šuti moj dječače plavi,oOIOCzZV_34,plavi,Agpmpny,plav,O
+Novi fosili,Tko zna s kim čekaš zoru,oOIOCzZV_35,Tko,Pq3m-n,tko,O
+Novi fosili,Tko zna s kim čekaš zoru,oOIOCzZV_35,zna,Vmr3s,znati,O
+Novi fosili,Tko zna s kim čekaš zoru,oOIOCzZV_35,s,Si,sa,O
+Novi fosili,Tko zna s kim čekaš zoru,oOIOCzZV_35,kim,Pi3m-i,tko,O
+Novi fosili,Tko zna s kim čekaš zoru,oOIOCzZV_35,čekaš,Vmr2s,čekati,O
+Novi fosili,Tko zna s kim čekaš zoru,oOIOCzZV_35,zoru,Ncfsa,zora,O
+Novi fosili,Tri plus deset (3+10),oOIOCzZV_36,Tri,Mlc,tri,O
+Novi fosili,Tri plus deset (3+10),oOIOCzZV_36,plus,Ncmsan,plus,O
+Novi fosili,Tri plus deset (3+10),oOIOCzZV_36,deset,Mlc,deset,O
+Novi fosili,Tri plus deset (3+10),oOIOCzZV_36,(,Z,(,O
+Novi fosili,Tri plus deset (3+10),oOIOCzZV_36,3,Mdc,3,O
+Novi fosili,Tri plus deset (3+10),oOIOCzZV_36,+,Z,+,O
+Novi fosili,Tri plus deset (3+10),oOIOCzZV_36,10,Mdc,10,O
+Novi fosili,Tri plus deset (3+10),oOIOCzZV_36,),Z,),O
+Novi fosili,"Vikend tata, vikend mama",oOIOCzZV_37,Vikend,Ncmsn,vikend,O
+Novi fosili,"Vikend tata, vikend mama",oOIOCzZV_37,tata,Ncmpg,tata,O
+Novi fosili,"Vikend tata, vikend mama",oOIOCzZV_37,",",Z,",",O
+Novi fosili,"Vikend tata, vikend mama",oOIOCzZV_37,vikend,Ncmsn,vikend,O
+Novi fosili,"Vikend tata, vikend mama",oOIOCzZV_37,mama,Ncmsg,mam,O
+Novi fosili,Za dobra stara vremena,oOIOCzZV_38,Za,Sa,za,O
+Novi fosili,Za dobra stara vremena,oOIOCzZV_38,dobra,Agpnpay,dobar,O
+Novi fosili,Za dobra stara vremena,oOIOCzZV_38,stara,Agpnpay,star,O
+Novi fosili,Za dobra stara vremena,oOIOCzZV_38,vremena,Ncnpa,vrijeme,O
+Novi fosili,Zagrli moju dušu,oOIOCzZV_39,Zagrli,Vmm2s,zagrliti,O
+Novi fosili,Zagrli moju dušu,oOIOCzZV_39,moju,Ps1fsa,moj,O
+Novi fosili,Zagrli moju dušu,oOIOCzZV_39,dušu,Ncfsa,duša,O
+Novi fosili,Znam,oOIOCzZV_40,Znam,Vmr1s,znati,O
+Severina,Adam i Seva,1BXPX+6H_1_0,Adam,Npmsn,Adam,B-per
+Severina,Adam i Seva,1BXPX+6H_1_0,i,Cc,i,O
+Severina,Adam i Seva,1BXPX+6H_1_0,Seva,Npmsg,Sev,B-per
+Severina,"Aj, aj, aj, aj",1BXPX+6H_1_1,Aj,I,Aj,O
+Severina,"Aj, aj, aj, aj",1BXPX+6H_1_1,",",Z,",",O
+Severina,"Aj, aj, aj, aj",1BXPX+6H_1_1,aj,Ncmsn,aj,O
+Severina,"Aj, aj, aj, aj",1BXPX+6H_1_1,",",Z,",",O
+Severina,"Aj, aj, aj, aj",1BXPX+6H_1_1,aj,Ncmsn,aj,O
+Severina,"Aj, aj, aj, aj",1BXPX+6H_1_1,",",Z,",",O
+Severina,"Aj, aj, aj, aj",1BXPX+6H_1_1,aj,Vmm2s,ati,O
+Severina,"Ako odeš, ljubavi",1BXPX+6H_1_2,Ako,Cs,ako,O
+Severina,"Ako odeš, ljubavi",1BXPX+6H_1_2,odeš,Vmr2s,otići,O
+Severina,"Ako odeš, ljubavi",1BXPX+6H_1_2,",",Z,",",O
+Severina,"Ako odeš, ljubavi",1BXPX+6H_1_2,ljubavi,Ncfsg,ljubav,O
+Severina,Ante,1BXPX+6H_1_3,Ante,Npmsn,Ante,B-per
+Severina,Bambola,1BXPX+6H_1_4,Bambola,Npfsn,Bambola,B-loc
+Severina,Bolna ti bolujem,1BXPX+6H_1_5,Bolna,Agpfsny,bolan,O
+Severina,Bolna ti bolujem,1BXPX+6H_1_5,ti,Pp2-sd,ti,O
+Severina,Bolna ti bolujem,1BXPX+6H_1_5,bolujem,Vmr1s,bolovati,O
+Severina,Brad Pitt,1BXPX+6H_1_6,Brad,Npmsn,Brad,B-per
+Severina,Brad Pitt,1BXPX+6H_1_6,Pitt,Npmsn,Pitt,I-per
+Severina,Broš,1BXPX+6H_1_7,Broš,Ncmsn,broš,O
+Severina,Budim se s imenom tvojim,1BXPX+6H_1_8,Budim,Vmr1s,buditi,O
+Severina,Budim se s imenom tvojim,1BXPX+6H_1_8,se,Px--sa,sebe,O
+Severina,Budim se s imenom tvojim,1BXPX+6H_1_8,s,Si,sa,O
+Severina,Budim se s imenom tvojim,1BXPX+6H_1_8,imenom,Ncnsi,ime,O
+Severina,Budim se s imenom tvojim,1BXPX+6H_1_8,tvojim,Ncfsg,tvoj,O
+Severina,Čovjek kojeg volim,1BXPX+6H_1_9,Čovjek,Ncmsn,čovjek,O
+Severina,Čovjek kojeg volim,1BXPX+6H_1_9,kojeg,Pi-msan,koji,O
+Severina,Čovjek kojeg volim,1BXPX+6H_1_9,volim,Vmr1s,voljeti,O
+Severina,Da si moj,1BXPX+6H_1_10,Da,Cs,da,O
+Severina,Da si moj,1BXPX+6H_1_10,si,Var2s,biti,O
+Severina,Da si moj,1BXPX+6H_1_10,moj,Ps1msn,moj,O
+Severina,Daj mi daj,1BXPX+6H_1_11,Daj,Vmm2s,dati,O
+Severina,Daj mi daj,1BXPX+6H_1_11,mi,Pp1-sd,ja,O
+Severina,Daj mi daj,1BXPX+6H_1_11,daj,Vmm2s,dati,O
+Severina,Dalmatinka,1BXPX+6H_1_12,Dalmatinka,Ncfsn,dalmatinka,B-per
+Severina,Djevojka sa sela,1BXPX+6H_1_13,Djevojka,Ncfsn,djevojka,O
+Severina,Djevojka sa sela,1BXPX+6H_1_13,sa,Sg,sa,O
+Severina,Djevojka sa sela,1BXPX+6H_1_13,sela,Ncnsg,selo,O
+Severina,Esmeralda,1BXPX+6H_1_14,Esmeralda,Ncfsn,esmeralda,O
+Severina,Gardelin,1BXPX+6H_1_15,Gardelin,Aspmsnn,gardelin,B-deriv-per
+Severina,Generale,1BXPX+6H_1_16,Generale,Ncmpa,general,O
+Severina,Haljinica boje lila,1BXPX+6H_1_17,Haljinica,Ncfsn,haljinica,O
+Severina,Haljinica boje lila,1BXPX+6H_1_17,boje,Ncfsg,boja,O
+Severina,Haljinica boje lila,1BXPX+6H_1_17,lila,Vmp-sf,liti,O
+Severina,Hurem,1BXPX+6H_1_18,Hurem,Qo,Hurem,O
+Severina,Idi,1BXPX+6H_1_19,Idi,Vmm2s,ići,O
+Severina,Ispovid,1BXPX+6H_1_20,Ispovid,Npmsn,Ispovid,B-loc
+Severina,Iz glave,1BXPX+6H_1_21,Iz,Sg,iz,O
+Severina,Iz glave,1BXPX+6H_1_21,glave,Ncfsg,glava,O
+Severina,Ja samo pjevam,1BXPX+6H_1_22,Ja,Pp1-sn,ja,O
+Severina,Ja samo pjevam,1BXPX+6H_1_22,samo,Rgp,samo,O
+Severina,Ja samo pjevam,1BXPX+6H_1_22,pjevam,Vmr1s,pjevati,O
+Severina,Kaži da l' je ljubav,1BXPX+6H_1_23,Kaži,Vmm2s,kazati,O
+Severina,Kaži da l' je ljubav,1BXPX+6H_1_23,da,Cs,da,O
+Severina,Kaži da l' je ljubav,1BXPX+6H_1_23,l,Agpnsny,l,O
+Severina,Kaži da l' je ljubav,1BXPX+6H_1_23,',Z,',O
+Severina,Kaži da l' je ljubav,1BXPX+6H_1_23,je,Var3s,biti,O
+Severina,Kaži da l' je ljubav,1BXPX+6H_1_23,ljubav,Ncfsn,ljubav,O
+Severina,Kreni (with Amir Kazić Leo),1BXPX+6H_1_24,Kreni,Vmr3s,kreniti,O
+Severina,Kreni (with Amir Kazić Leo),1BXPX+6H_1_24,(,Z,(,O
+Severina,Kreni (with Amir Kazić Leo),1BXPX+6H_1_24,with,Agpfsny,witi,O
+Severina,Kreni (with Amir Kazić Leo),1BXPX+6H_1_24,Amir,Npfsn,Amir,B-per
+Severina,Kreni (with Amir Kazić Leo),1BXPX+6H_1_24,Kazić,Npfsn,Kazić,I-per
+Severina,Kreni (with Amir Kazić Leo),1BXPX+6H_1_24,Leo,Npfsn,Leo,I-per
+Severina,Kreni (with Amir Kazić Leo),1BXPX+6H_1_24,),Z,),O
+Severina,Lijenčina,1BXPX+6H_1_25,Lijenčina,Ncmsn,lijenčina,O
+Severina,Ljubimo se,1BXPX+6H_1_26,Ljubimo,Vmr1p,ljubiti,O
+Severina,Ljubimo se,1BXPX+6H_1_26,se,Px--sa,sebe,O
+Severina,Lude godine,1BXPX+6H_1_27,Lude,Ncfpn,luda,O
+Severina,Lude godine,1BXPX+6H_1_27,godine,Ncfsg,godina,O
+Severina,Ma daj,1BXPX+6H_1_28,Ma,I,Ma,O
+Severina,Ma daj,1BXPX+6H_1_28,daj,Vmm2s,dati,O
+Severina,Marjane moj,1BXPX+6H_1_29,Marjane,Ncfpn,marjana,O
+Severina,Marjane moj,1BXPX+6H_1_29,moj,Ps1msn,moj,O
+Severina,Mili moj,1BXPX+6H_1_30,Mili,Vmr3s,militi,O
+Severina,Mili moj,1BXPX+6H_1_30,moj,Ncfpa,moj,O
+Severina,Moj sokole,1BXPX+6H_1_31,Moj,Ps1msn,moj,O
+Severina,Moj sokole,1BXPX+6H_1_31,sokole,Vmr3p,sokoliti,O
+Severina,Moja stvar,1BXPX+6H_1_32,Moja,Ps1fsn,moj,O
+Severina,Moja stvar,1BXPX+6H_1_32,stvar,Ncfsn,stvar,O
+Severina,More na leđa,1BXPX+6H_1_33,More,Ncnsn,more,O
+Severina,More na leđa,1BXPX+6H_1_33,na,Sa,na,O
+Severina,More na leđa,1BXPX+6H_1_33,leđa,Ncnpa,leđa,O
+Severina,Mornarica mlada,1BXPX+6H_1_34,Mornarica,Ncfsn,mornarica,O
+Severina,Mornarica mlada,1BXPX+6H_1_34,mlada,Agpfsny,mlad,O
+Severina,Muškarcu samo treba kurva,1BXPX+6H_1_35,Muškarcu,Ncmsd,muškarac,O
+Severina,Muškarcu samo treba kurva,1BXPX+6H_1_35,samo,Rgp,samo,O
+Severina,Muškarcu samo treba kurva,1BXPX+6H_1_35,treba,Vmr3s,trebati,O
+Severina,Muškarcu samo treba kurva,1BXPX+6H_1_35,kurva,Ncfsn,kurva,O
+Severina,Na punti Marjana,1BXPX+6H_1_36,Na,Sl,na,O
+Severina,Na punti Marjana,1BXPX+6H_1_36,punti,Ncfsl,punta,O
+Severina,Na punti Marjana,1BXPX+6H_1_36,Marjana,Npfsn,Marjana,B-loc
+Severina,Ne spavaj mala moja,1BXPX+6H_1_37,Ne,Qz,ne,O
+Severina,Ne spavaj mala moja,1BXPX+6H_1_37,spavaj,Vmm2s,spavati,O
+Severina,Ne spavaj mala moja,1BXPX+6H_1_37,mala,Agpfsny,mali,O
+Severina,Ne spavaj mala moja,1BXPX+6H_1_37,moja,Ps1fsn,moj,O
+Severina,Nit s tobom nit' bez tebe,1BXPX+6H_1_38,Nit,Ncfsn,nit,O
+Severina,Nit s tobom nit' bez tebe,1BXPX+6H_1_38,s,Si,sa,O
+Severina,Nit s tobom nit' bez tebe,1BXPX+6H_1_38,tobom,Pp2-si,ti,O
+Severina,Nit s tobom nit' bez tebe,1BXPX+6H_1_38,nit,Ncfsa,nit,O
+Severina,Nit s tobom nit' bez tebe,1BXPX+6H_1_38,',Z,',O
+Severina,Nit s tobom nit' bez tebe,1BXPX+6H_1_38,bez,Sg,bez,O
+Severina,Nit s tobom nit' bez tebe,1BXPX+6H_1_38,tebe,Pp2-sg,ti,O
+Severina,Od rođendana do rođendana,1BXPX+6H_1_39,Od,Sg,od,O
+Severina,Od rođendana do rođendana,1BXPX+6H_1_39,rođendana,Ncmpg,rođendan,O
+Severina,Od rođendana do rođendana,1BXPX+6H_1_39,do,Sg,do,O
+Severina,Od rođendana do rođendana,1BXPX+6H_1_39,rođendana,Ncmsg,rođendan,O
+Severina,Odlazim,1BXPX+6H_1_40,Odlazim,Vmr1s,odlaziti,O
+Severina,Paloma nera,1BXPX+6H_1_41,Paloma,Ncfsn,paloma,O
+Severina,Paloma nera,1BXPX+6H_1_41,nera,Ncmpg,ner,O
+Severina,Pogled ispod obrva,1BXPX+6H_1_42,Pogled,Ncmsn,pogled,O
+Severina,Pogled ispod obrva,1BXPX+6H_1_42,ispod,Sg,ispod,O
+Severina,Pogled ispod obrva,1BXPX+6H_1_42,obrva,Ncfpg,obrva,O
+Severina,Poželi me,1BXPX+6H_1_43,Poželi,Vmr3s,poželjeti,O
+Severina,Poželi me,1BXPX+6H_1_43,me,Pp1-sa,ja,O
+Severina,Prijateljice,1BXPX+6H_1_44,Prijateljice,Ncfpn,prijateljica,O
+Severina,Priznajem,1BXPX+6H_1_45,Priznajem,Vmr1s,priznavati,O
+Severina,Prva djevojka,1BXPX+6H_1_46,Prva,Mlofsn,prvi,O
+Severina,Prva djevojka,1BXPX+6H_1_46,djevojka,Ncfsn,djevojka,O
+Severina,Radujte se narodi,1BXPX+6H_1_47,Radujte,Vmm2p,radovati,O
+Severina,Radujte se narodi,1BXPX+6H_1_47,se,Px--sa,sebe,O
+Severina,Radujte se narodi,1BXPX+6H_1_47,narodi,Ncmpn,narod,O
+Severina,Razočarao si me,1BXPX+6H_1_48,Razočarao,Vmp-sm,razočarati,O
+Severina,Razočarao si me,1BXPX+6H_1_48,si,Var2s,biti,O
+Severina,Razočarao si me,1BXPX+6H_1_48,me,Pp1-sa,ja,O
+Severina,Rođena da budem prva (with Lana),1BXPX+6H_1_49,Rođena,Appfsny,roditi,O
+Severina,Rođena da budem prva (with Lana),1BXPX+6H_1_49,da,Cs,da,O
+Severina,Rođena da budem prva (with Lana),1BXPX+6H_1_49,budem,Var1s,biti,O
+Severina,Rođena da budem prva (with Lana),1BXPX+6H_1_49,prva,Mlofsn,prvi,O
+Severina,Rođena da budem prva (with Lana),1BXPX+6H_1_49,(,Z,(,O
+Severina,Rođena da budem prva (with Lana),1BXPX+6H_1_49,with,Ncfsn,with,O
+Severina,Rođena da budem prva (with Lana),1BXPX+6H_1_49,Lana,Ncmsg,lan,O
+Severina,Rođena da budem prva (with Lana),1BXPX+6H_1_49,),Z,),O
+Severina,Savršena žena,1BXPX+6H_1_50,Savršena,Agpfsny,savršen,O
+Severina,Savršena žena,1BXPX+6H_1_50,žena,Ncfsn,žena,O
+Severina,Sklopi oči muzika dok svira,1BXPX+6H_1_51,Sklopi,Vmr3s,sklopiti,O
+Severina,Sklopi oči muzika dok svira,1BXPX+6H_1_51,oči,Ncfpa,oko,O
+Severina,Sklopi oči muzika dok svira,1BXPX+6H_1_51,muzika,Ncfsn,muzika,O
+Severina,Sklopi oči muzika dok svira,1BXPX+6H_1_51,dok,Cs,dok,O
+Severina,Sklopi oči muzika dok svira,1BXPX+6H_1_51,svira,Vmr3s,svirati,O
+Severina,Slobodna,1BXPX+6H_1_52,Slobodna,Agpfsny,slobodan,O
+Severina,Srce dječije,1BXPX+6H_1_53,Srce,Ncnsn,srce,O
+Severina,Srce dječije,1BXPX+6H_1_53,dječije,Ncfsg,dječija,O
+Severina,Sutra odlaziš,1BXPX+6H_1_54,Sutra,Rgp,sutra,O
+Severina,Sutra odlaziš,1BXPX+6H_1_54,odlaziš,Vmr2s,odlaziti,O
+Severina,"Sve što imam, to si ti",1BXPX+6H_1_55,Sve,Agpnsny,sav,O
+Severina,"Sve što imam, to si ti",1BXPX+6H_1_55,što,Pi3n-a,što,O
+Severina,"Sve što imam, to si ti",1BXPX+6H_1_55,imam,Vmr1s,imati,O
+Severina,"Sve što imam, to si ti",1BXPX+6H_1_55,",",Z,",",O
+Severina,"Sve što imam, to si ti",1BXPX+6H_1_55,to,Pd-nsn,taj,O
+Severina,"Sve što imam, to si ti",1BXPX+6H_1_55,si,Var2s,biti,O
+Severina,"Sve što imam, to si ti",1BXPX+6H_1_55,ti,Pp2-sn,ti,O
+Severina,Šta me sada pitaš šta mi je,1BXPX+6H_1_56,Šta,Pi3n-n,što,O
+Severina,Šta me sada pitaš šta mi je,1BXPX+6H_1_56,me,Pp1-sa,ja,O
+Severina,Šta me sada pitaš šta mi je,1BXPX+6H_1_56,sada,Rgp,sada,O
+Severina,Šta me sada pitaš šta mi je,1BXPX+6H_1_56,pitaš,Vmr2s,pitati,O
+Severina,Šta me sada pitaš šta mi je,1BXPX+6H_1_56,šta,Cs,što,O
+Severina,Šta me sada pitaš šta mi je,1BXPX+6H_1_56,mi,Pp1-sd,ja,O
+Severina,Šta me sada pitaš šta mi je,1BXPX+6H_1_56,je,Var3s,biti,O
+Severina,Tako je to,1BXPX+6H_1_57,Tako,Rgp,tako,O
+Severina,Tako je to,1BXPX+6H_1_57,je,Var3s,biti,O
+Severina,Tako je to,1BXPX+6H_1_57,to,Pd-nsn,taj,O
+Severina,"Tata, tata, čuješ muziku",1BXPX+6H_1_58,Tata,Ncmsn,tata,O
+Severina,"Tata, tata, čuješ muziku",1BXPX+6H_1_58,",",Z,",",O
+Severina,"Tata, tata, čuješ muziku",1BXPX+6H_1_58,tata,Ncmpg,tata,O
+Severina,"Tata, tata, čuješ muziku",1BXPX+6H_1_58,",",Z,",",O
+Severina,"Tata, tata, čuješ muziku",1BXPX+6H_1_58,čuješ,Vmr2s,čuti,O
+Severina,"Tata, tata, čuješ muziku",1BXPX+6H_1_58,muziku,Ncfsa,muzika,O
+Severina,Ti si moj,1BXPX+6H_1_59,Ti,Pp2-sn,ti,O
+Severina,Ti si moj,1BXPX+6H_1_59,si,Var2s,biti,O
+Severina,Ti si moj,1BXPX+6H_1_59,moj,Ps1msn,moj,O
+Severina,Ti si suza na mome jastuku,1BXPX+6H_1_60,Ti,Pp2-sn,ti,O
+Severina,Ti si suza na mome jastuku,1BXPX+6H_1_60,si,Var2s,biti,O
+Severina,Ti si suza na mome jastuku,1BXPX+6H_1_60,suza,Ncfpg,suza,O
+Severina,Ti si suza na mome jastuku,1BXPX+6H_1_60,na,Sl,na,O
+Severina,Ti si suza na mome jastuku,1BXPX+6H_1_60,mome,Agpmsly,moj,O
+Severina,Ti si suza na mome jastuku,1BXPX+6H_1_60,jastuku,Ncmsl,jastuk,O
+Severina,Tridesete,1BXPX+6H_1_61,Tridesete,Mlofpn,trideseti,O
+Severina,Tužna pjesma,1BXPX+6H_1_62,Tužna,Agpfsny,tužan,O
+Severina,Tužna pjesma,1BXPX+6H_1_62,pjesma,Ncfsn,pjesma,O
+Severina,Uno momento (feat. Ministarke),1BXPX+6H_1_63,Uno,Npmsn,Uno,B-misc
+Severina,Uno momento (feat. Ministarke),1BXPX+6H_1_63,momento,Rgp,momento,O
+Severina,Uno momento (feat. Ministarke),1BXPX+6H_1_63,(,Z,(,O
+Severina,Uno momento (feat. Ministarke),1BXPX+6H_1_63,feat,Ncmsn,feat,O
+Severina,Uno momento (feat. Ministarke),1BXPX+6H_1_63,.,Z,.,O
+Severina,Uno momento (feat. Ministarke),1BXPX+6H_1_63,Ministarke,Ncfpn,ministarka,O
+Severina,Uno momento (feat. Ministarke),1BXPX+6H_1_63,),Z,),O
+Severina,Vatra i led,1BXPX+6H_1_64,Vatra,Ncfsn,vatra,O
+Severina,Vatra i led,1BXPX+6H_1_64,i,Cc,i,O
+Severina,Vatra i led,1BXPX+6H_1_64,led,Ncmsan,led,O
+Severina,Virujen u te,1BXPX+6H_1_65,Virujen,Agpmsnn,virujen,O
+Severina,Virujen u te,1BXPX+6H_1_65,u,Sa,u,O
+Severina,Virujen u te,1BXPX+6H_1_65,te,Pp2-sa,ti,O
+Severina,"Voli me, ne voli",1BXPX+6H_1_66,Voli,Vmr3s,voljeti,O
+Severina,"Voli me, ne voli",1BXPX+6H_1_66,me,Pp1-sa,ja,O
+Severina,"Voli me, ne voli",1BXPX+6H_1_66,",",Z,",",O
+Severina,"Voli me, ne voli",1BXPX+6H_1_66,ne,Qz,ne,O
+Severina,"Voli me, ne voli",1BXPX+6H_1_66,voli,Vmr3s,voljeti,O
+Severina,Zakuni se ljubavi,1BXPX+6H_1_67,Zakuni,Vmm2s,zakleti,O
+Severina,Zakuni se ljubavi,1BXPX+6H_1_67,se,Px--sa,sebe,O
+Severina,Zakuni se ljubavi,1BXPX+6H_1_67,ljubavi,Ncfsg,ljubav,O
+Severina,Zaustavite tramvaj,1BXPX+6H_1_68,Zaustavite,Vmm2p,zaustaviti,O
+Severina,Zaustavite tramvaj,1BXPX+6H_1_68,tramvaj,Ncmsan,tramvaj,O
+Severina,"Zime, ljeta, jeseni",1BXPX+6H_1_69,Zime,Ncfpn,zima,O
+Severina,"Zime, ljeta, jeseni",1BXPX+6H_1_69,",",Z,",",O
+Severina,"Zime, ljeta, jeseni",1BXPX+6H_1_69,ljeta,Ncnsg,ljeto,O
+Severina,"Zime, ljeta, jeseni",1BXPX+6H_1_69,",",Z,",",O
+Severina,"Zime, ljeta, jeseni",1BXPX+6H_1_69,jeseni,Ncfsg,jesen,O
+Severina,"Adio, ljube",1BXPX+6H_1_0,Adio,I,adio,O
+Severina,"Adio, ljube",1BXPX+6H_1_0,",",Z,",",O
+Severina,"Adio, ljube",1BXPX+6H_1_0,ljube,Vmr3p,ljubiti,O
+Severina,"Ajde, ajde zlato moje",1BXPX+6H_1_1,Ajde,I,ajde,O
+Severina,"Ajde, ajde zlato moje",1BXPX+6H_1_1,",",Z,",",O
+Severina,"Ajde, ajde zlato moje",1BXPX+6H_1_1,ajde,I,ajde,O
+Severina,"Ajde, ajde zlato moje",1BXPX+6H_1_1,zlato,Ncnsa,zlato,O
+Severina,"Ajde, ajde zlato moje",1BXPX+6H_1_1,moje,Ps1fsg,moj,O
+Severina,Alcatraz,1BXPX+6H_1_2,Alcatraz,Npmsn,Alcatraz,B-loc
+Severina,"Baby, baby",1BXPX+6H_1_3,Baby,Npfsn,Baby,B-org
+Severina,"Baby, baby",1BXPX+6H_1_3,",",Z,",",O
+Severina,"Baby, baby",1BXPX+6H_1_3,baby,Xf,baby,O
+Severina,Bojate bane buski,1BXPX+6H_1_4,Bojate,Vmr2p,bojati,O
+Severina,Bojate bane buski,1BXPX+6H_1_4,bane,Vmr3s,banuti,O
+Severina,Bojate bane buski,1BXPX+6H_1_4,buski,Agpmsayn,buski,O
+Severina,Bože moj,1BXPX+6H_1_5,Bože,Npmsv,Bož,B-per
+Severina,Bože moj,1BXPX+6H_1_5,moj,Ps1msv,moj,O
+Severina,Brazil,1BXPX+6H_1_6,Brazil,Npmsn,Brazil,B-loc
+Severina,Budi happy,1BXPX+6H_1_7,Budi,Vmr3s,buditi,O
+Severina,Budi happy,1BXPX+6H_1_7,happy,Ncfpa,happa,O
+Severina,Cvate šafran bijeli,1BXPX+6H_1_8,Cvate,Vmr3s,cvasti,O
+Severina,Cvate šafran bijeli,1BXPX+6H_1_8,šafran,Ncmsan,šafran,O
+Severina,Cvate šafran bijeli,1BXPX+6H_1_8,bijeli,Agpmsny,bijel,O
+Severina,Da nisi možda gej?,1BXPX+6H_1_9,Da,Cs,da,O
+Severina,Da nisi možda gej?,1BXPX+6H_1_9,nisi,Var2s,biti,O
+Severina,Da nisi možda gej?,1BXPX+6H_1_9,možda,Rgp,možda,O
+Severina,Da nisi možda gej?,1BXPX+6H_1_9,gej,Agpmsny,gej,O
+Severina,Da nisi možda gej?,1BXPX+6H_1_9,?,Z,?,O
+Severina,Daj da biram,1BXPX+6H_1_10,Daj,Vmm2s,dati,O
+Severina,Daj da biram,1BXPX+6H_1_10,da,Cs,da,O
+Severina,Daj da biram,1BXPX+6H_1_10,biram,Vmr1s,birati,O
+Severina,Dala bih sve,1BXPX+6H_1_11,Dala,Vmp-sf,dati,O
+Severina,Dala bih sve,1BXPX+6H_1_11,bih,Vaa1s,biti,O
+Severina,Dala bih sve,1BXPX+6H_1_11,sve,Agpnsay,sav,O
+Severina,"Danju, noću",1BXPX+6H_1_12,Danju,Rgp,danju,O
+Severina,"Danju, noću",1BXPX+6H_1_12,",",Z,",",O
+Severina,"Danju, noću",1BXPX+6H_1_12,noću,Rgp,noću,O
+Severina,Dodirni mi koljena,1BXPX+6H_1_13,Dodirni,Agpmsny,dodirni,O
+Severina,Dodirni mi koljena,1BXPX+6H_1_13,mi,Pp1-sd,ja,O
+Severina,Dodirni mi koljena,1BXPX+6H_1_13,koljena,Ncnsg,koljeno,O
+Severina,Gade,1BXPX+6H_1_14,Gade,Vmr3p,gaditi,O
+Severina,"Gas, gas",1BXPX+6H_1_15,Gas,Npmsn,Gas,B-loc
+Severina,"Gas, gas",1BXPX+6H_1_15,",",Z,",",O
+Severina,"Gas, gas",1BXPX+6H_1_15,gas,Pp2-pa,gas,O
+Severina,Grad bez ljudi,1BXPX+6H_1_16,Grad,Ncmsn,grad,O
+Severina,Grad bez ljudi,1BXPX+6H_1_16,bez,Sg,bez,O
+Severina,Grad bez ljudi,1BXPX+6H_1_16,ljudi,Ncmpg,čovjek,O
+Severina,Hrvatica,1BXPX+6H_1_17,Hrvatica,Ncfsn,hrvatica,O
+Severina,Idemo se ljubiti,1BXPX+6H_1_18,Idemo,Vmr1p,ići,O
+Severina,Idemo se ljubiti,1BXPX+6H_1_18,se,Px--sa,sebe,O
+Severina,Idemo se ljubiti,1BXPX+6H_1_18,ljubiti,Vmn,ljubiti,O
+Severina,Imam novog dečka,1BXPX+6H_1_19,Imam,Ncmsn,imam,O
+Severina,Imam novog dečka,1BXPX+6H_1_19,novog,Agpmsgy,nov,O
+Severina,Imam novog dečka,1BXPX+6H_1_19,dečka,Ncmsg,dečko,O
+Severina,Italiana (feat. FM Band),1BXPX+6H_1_20,Italiana,Npfsn,Italiana,B-loc
+Severina,Italiana (feat. FM Band),1BXPX+6H_1_20,(,Z,(,O
+Severina,Italiana (feat. FM Band),1BXPX+6H_1_20,feat,Ncmsn,feat,O
+Severina,Italiana (feat. FM Band),1BXPX+6H_1_20,.,Z,.,O
+Severina,Italiana (feat. FM Band),1BXPX+6H_1_20,FM,Npmsn,FM,B-misc
+Severina,Italiana (feat. FM Band),1BXPX+6H_1_20,Band,Npmsn,Band,I-misc
+Severina,Italiana (feat. FM Band),1BXPX+6H_1_20,),Z,),O
+Severina,Iznad Tešnja zora sviće,1BXPX+6H_1_21,Iznad,Sg,iznad,O
+Severina,Iznad Tešnja zora sviće,1BXPX+6H_1_21,Tešnja,Agpfsny,tešnji,O
+Severina,Iznad Tešnja zora sviće,1BXPX+6H_1_21,zora,Ncfsn,zora,O
+Severina,Iznad Tešnja zora sviće,1BXPX+6H_1_21,sviće,Vmr3s,svitati,O
+Severina,Kad si sam (with Gibonni),1BXPX+6H_1_22,Kad,Rgp,kad,O
+Severina,Kad si sam (with Gibonni),1BXPX+6H_1_22,si,Var2s,biti,O
+Severina,Kad si sam (with Gibonni),1BXPX+6H_1_22,sam,Agpmsnn,sam,O
+Severina,Kad si sam (with Gibonni),1BXPX+6H_1_22,(,Z,(,O
+Severina,Kad si sam (with Gibonni),1BXPX+6H_1_22,with,Agpmsny,with,O
+Severina,Kad si sam (with Gibonni),1BXPX+6H_1_22,Gibonni,Agpmsny,gibonan,O
+Severina,Kad si sam (with Gibonni),1BXPX+6H_1_22,),Z,),O
+Severina,Ko je kriv (with Boris Novković),1BXPX+6H_1_23,Ko,Pq3m-n,Ko,O
+Severina,Ko je kriv (with Boris Novković),1BXPX+6H_1_23,je,Var3s,biti,O
+Severina,Ko je kriv (with Boris Novković),1BXPX+6H_1_23,kriv,Agpmsnn,kriv,O
+Severina,Ko je kriv (with Boris Novković),1BXPX+6H_1_23,(,Z,(,O
+Severina,Ko je kriv (with Boris Novković),1BXPX+6H_1_23,with,Ncmsn,with,O
+Severina,Ko je kriv (with Boris Novković),1BXPX+6H_1_23,Boris,Npmsn,Boris,B-per
+Severina,Ko je kriv (with Boris Novković),1BXPX+6H_1_23,Novković,Npmsn,Novković,I-per
+Severina,Ko je kriv (with Boris Novković),1BXPX+6H_1_23,),Z,),O
+Severina,Krivi spoj,1BXPX+6H_1_24,Krivi,Agpmsny,kriv,O
+Severina,Krivi spoj,1BXPX+6H_1_24,spoj,Ncmsn,spoj,O
+Severina,Ljubi me noćas,1BXPX+6H_1_25,Ljubi,Vmr3s,ljubiti,O
+Severina,Ljubi me noćas,1BXPX+6H_1_25,me,Pp1-sa,ja,O
+Severina,Ljubi me noćas,1BXPX+6H_1_25,noćas,Rgp,noćas,O
+Severina,Ljute cigare,1BXPX+6H_1_26,Ljute,Agpfpny,ljut,O
+Severina,Ljute cigare,1BXPX+6H_1_26,cigare,Ncfpn,cigara,O
+Severina,Ludo moja,1BXPX+6H_1_27,Ludo,Rgp,ludo,O
+Severina,Ludo moja,1BXPX+6H_1_27,moja,Ps1fsn,moj,O
+Severina,Mala je dala,1BXPX+6H_1_28,Mala,Agpfsny,mali,O
+Severina,Mala je dala,1BXPX+6H_1_28,je,Var3s,biti,O
+Severina,Mala je dala,1BXPX+6H_1_28,dala,Vmp-sf,dati,O
+Severina,Meni fali on,1BXPX+6H_1_29,Meni,Pp1-sd,ja,O
+Severina,Meni fali on,1BXPX+6H_1_29,fali,Vmr3s,faliti,O
+Severina,Meni fali on,1BXPX+6H_1_29,on,Pp3msn,on,O
+Severina,Milost,1BXPX+6H_1_30,Milost,Ncfsn,milost,O
+Severina,Moja štikla,1BXPX+6H_1_31,Moja,Ps1fsn,moj,O
+Severina,Moja štikla,1BXPX+6H_1_31,štikla,Ncfsn,štikla,O
+Severina,Moji jadi,1BXPX+6H_1_32,Moji,Agpmpny,moj,O
+Severina,Moji jadi,1BXPX+6H_1_32,jadi,Ncmpn,jad,O
+Severina,More tuge (duet Saša Matić),1BXPX+6H_1_33,More,Ncnsn,more,O
+Severina,More tuge (duet Saša Matić),1BXPX+6H_1_33,tuge,Ncfsg,tuga,O
+Severina,More tuge (duet Saša Matić),1BXPX+6H_1_33,(,Z,(,O
+Severina,More tuge (duet Saša Matić),1BXPX+6H_1_33,duet,Ncmsn,duet,O
+Severina,More tuge (duet Saša Matić),1BXPX+6H_1_33,Saša,Npmsn,Saša,B-per
+Severina,More tuge (duet Saša Matić),1BXPX+6H_1_33,Matić,Npmsn,Matić,I-per
+Severina,More tuge (duet Saša Matić),1BXPX+6H_1_33,),Z,),O
+Severina,Mr Taliman,1BXPX+6H_1_34,Mr,Npmsn,Mr,B-per
+Severina,Mr Taliman,1BXPX+6H_1_34,Taliman,Npmsn,Taliman,I-per
+Severina,My high heel,1BXPX+6H_1_35,My,Xf,My,O
+Severina,My high heel,1BXPX+6H_1_35,high,Xf,high,O
+Severina,My high heel,1BXPX+6H_1_35,heel,Xf,heel,O
+Severina,Ne bi ti oprostila,1BXPX+6H_1_36,Ne,Qz,ne,O
+Severina,Ne bi ti oprostila,1BXPX+6H_1_36,bi,Vaa3s,biti,O
+Severina,Ne bi ti oprostila,1BXPX+6H_1_36,ti,Pp2-sd,ti,O
+Severina,Ne bi ti oprostila,1BXPX+6H_1_36,oprostila,Vmp-sf,oprostiti,O
+Severina,Nedostaješ mi,1BXPX+6H_1_37,Nedostaješ,Vmr2s,nedostajati,O
+Severina,Nedostaješ mi,1BXPX+6H_1_37,mi,Pp1-sd,ja,O
+Severina,"Noću, danju",1BXPX+6H_1_38,Noću,Rgp,noću,O
+Severina,"Noću, danju",1BXPX+6H_1_38,",",Z,",",O
+Severina,"Noću, danju",1BXPX+6H_1_38,danju,Rgp,danju,O
+Severina,Odavde do vječnosti,1BXPX+6H_1_39,Odavde,Rgp,odavde,O
+Severina,Odavde do vječnosti,1BXPX+6H_1_39,do,Sg,do,O
+Severina,Odavde do vječnosti,1BXPX+6H_1_39,vječnosti,Ncfsg,vječnost,O
+Severina,Otrove (feat. Jala Brat),1BXPX+6H_1_40,Otrove,Ncmpa,otrov,O
+Severina,Otrove (feat. Jala Brat),1BXPX+6H_1_40,(,Z,(,O
+Severina,Otrove (feat. Jala Brat),1BXPX+6H_1_40,feat,Ncmsn,feat,O
+Severina,Otrove (feat. Jala Brat),1BXPX+6H_1_40,.,Z,.,O
+Severina,Otrove (feat. Jala Brat),1BXPX+6H_1_40,Jala,Ncmsg,jal,O
+Severina,Otrove (feat. Jala Brat),1BXPX+6H_1_40,Brat,Ncmsn,brat,O
+Severina,Otrove (feat. Jala Brat),1BXPX+6H_1_40,),Z,),O
+Severina,Parfem,1BXPX+6H_1_41,Parfem,Ncmsn,parfem,O
+Severina,Pomalo,1BXPX+6H_1_42,Pomalo,Rgp,pomalo,O
+Severina,Predaj se srce,1BXPX+6H_1_43,Predaj,Vmm2s,predati,O
+Severina,Predaj se srce,1BXPX+6H_1_43,se,Px--sa,sebe,O
+Severina,Predaj se srce,1BXPX+6H_1_43,srce,Ncnsn,srce,O
+Severina,Prijevara,1BXPX+6H_1_44,Prijevara,Ncfsn,prijevara,O
+Severina,Pruži mi ruke,1BXPX+6H_1_45,Pruži,Vmm2s,pružiti,O
+Severina,Pruži mi ruke,1BXPX+6H_1_45,mi,Pp1-sd,ja,O
+Severina,Pruži mi ruke,1BXPX+6H_1_45,ruke,Ncfpa,ruka,O
+Severina,Pucajte u tamburaše,1BXPX+6H_1_46,Pucajte,Vmm2p,pucati,O
+Severina,Pucajte u tamburaše,1BXPX+6H_1_46,u,Sa,u,O
+Severina,Pucajte u tamburaše,1BXPX+6H_1_46,tamburaše,Ncmpa,tamburaš,O
+Severina,Rastajem se od života (with Željko Bebek),1BXPX+6H_1_47,Rastajem,Vmr1s,rastajati,O
+Severina,Rastajem se od života (with Željko Bebek),1BXPX+6H_1_47,se,Px--sa,sebe,O
+Severina,Rastajem se od života (with Željko Bebek),1BXPX+6H_1_47,od,Sg,od,O
+Severina,Rastajem se od života (with Željko Bebek),1BXPX+6H_1_47,života,Ncmsg,život,O
+Severina,Rastajem se od života (with Željko Bebek),1BXPX+6H_1_47,(,Z,(,O
+Severina,Rastajem se od života (with Željko Bebek),1BXPX+6H_1_47,with,Xf,with,O
+Severina,Rastajem se od života (with Željko Bebek),1BXPX+6H_1_47,Željko,Npmsn,Željko,B-per
+Severina,Rastajem se od života (with Željko Bebek),1BXPX+6H_1_47,Bebek,Npmsn,Bebek,I-per
+Severina,Rastajem se od života (with Željko Bebek),1BXPX+6H_1_47,),Z,),O
+Severina,Ribar plete mrežu,1BXPX+6H_1_48,Ribar,Ncmsn,ribar,O
+Severina,Ribar plete mrežu,1BXPX+6H_1_48,plete,Vmr3s,plesti,O
+Severina,Ribar plete mrežu,1BXPX+6H_1_48,mrežu,Ncfsa,mreža,O
+Severina,Sama na sceni,1BXPX+6H_1_49,Sama,Agpfsny,sam,O
+Severina,Sama na sceni,1BXPX+6H_1_49,na,Sl,na,O
+Severina,Sama na sceni,1BXPX+6H_1_49,sceni,Ncfsl,scena,O
+Severina,"Sija sunce, trava miriše",1BXPX+6H_1_50,Sija,Vmr3s,sijati,O
+Severina,"Sija sunce, trava miriše",1BXPX+6H_1_50,sunce,Ncnsa,sunce,O
+Severina,"Sija sunce, trava miriše",1BXPX+6H_1_50,",",Z,",",O
+Severina,"Sija sunce, trava miriše",1BXPX+6H_1_50,trava,Ncfsn,trava,O
+Severina,"Sija sunce, trava miriše",1BXPX+6H_1_50,miriše,Vmr3s,mirisati,O
+Severina,Slike sve mu ljubim,1BXPX+6H_1_51,Slike,Ncfpn,slika,O
+Severina,Slike sve mu ljubim,1BXPX+6H_1_51,sve,Agpnsay,sav,O
+Severina,Slike sve mu ljubim,1BXPX+6H_1_51,mu,Pp3msd,on,O
+Severina,Slike sve mu ljubim,1BXPX+6H_1_51,ljubim,Vmr1s,ljubiti,O
+Severina,Spreman za to,1BXPX+6H_1_52,Spreman,Agpmsnn,spreman,O
+Severina,Spreman za to,1BXPX+6H_1_52,za,Sa,za,O
+Severina,Spreman za to,1BXPX+6H_1_52,to,Pd-nsa,taj,O
+Severina,Srce je moje veliko k'o kuća,1BXPX+6H_1_53,Srce,Ncnsn,srce,O
+Severina,Srce je moje veliko k'o kuća,1BXPX+6H_1_53,je,Var3s,biti,O
+Severina,Srce je moje veliko k'o kuća,1BXPX+6H_1_53,moje,Ps1nsn,moj,O
+Severina,Srce je moje veliko k'o kuća,1BXPX+6H_1_53,veliko,Agpnsny,velik,O
+Severina,Srce je moje veliko k'o kuća,1BXPX+6H_1_53,k'o,Ncnsn,k'o,O
+Severina,Srce je moje veliko k'o kuća,1BXPX+6H_1_53,kuća,Ncfpg,kuća,O
+Severina,Sve do zore,1BXPX+6H_1_54,Sve,Qo,sve,O
+Severina,Sve do zore,1BXPX+6H_1_54,do,Sg,do,O
+Severina,Sve do zore,1BXPX+6H_1_54,zore,Ncfsg,zora,O
+Severina,Svirajte mi rokeri,1BXPX+6H_1_55,Svirajte,Vmm2p,svirati,O
+Severina,Svirajte mi rokeri,1BXPX+6H_1_55,mi,Pp1-pn,mi,O
+Severina,Svirajte mi rokeri,1BXPX+6H_1_55,rokeri,Ncmpn,roker,O
+Severina,Šta to ona ima što ja nemam,1BXPX+6H_1_56,Šta,Sa,što,O
+Severina,Šta to ona ima što ja nemam,1BXPX+6H_1_56,to,Pd-nsa,taj,O
+Severina,Šta to ona ima što ja nemam,1BXPX+6H_1_56,ona,Pp3fsn,on,O
+Severina,Šta to ona ima što ja nemam,1BXPX+6H_1_56,ima,Vmr3s,imati,O
+Severina,Šta to ona ima što ja nemam,1BXPX+6H_1_56,što,Pi3n-a,što,O
+Severina,Šta to ona ima što ja nemam,1BXPX+6H_1_56,ja,Pp1-sn,ja,O
+Severina,Šta to ona ima što ja nemam,1BXPX+6H_1_56,nemam,Vmr1s,nemati,O
+Severina,Tarapana,1BXPX+6H_1_57,Tarapana,Ncfsn,tarapana,O
+Severina,Ti bi u skuribandu,1BXPX+6H_1_58,Ti,Pp2-sv,ti,O
+Severina,Ti bi u skuribandu,1BXPX+6H_1_58,bi,Vaa3s,biti,O
+Severina,Ti bi u skuribandu,1BXPX+6H_1_58,u,Sl,u,O
+Severina,Ti bi u skuribandu,1BXPX+6H_1_58,skuribandu,Ncmsl,skuriband,O
+Severina,Ti si srce moje,1BXPX+6H_1_59,Ti,Pp2-sn,ti,O
+Severina,Ti si srce moje,1BXPX+6H_1_59,si,Agpnsay,sebe,O
+Severina,Ti si srce moje,1BXPX+6H_1_59,srce,Ncnsa,srce,O
+Severina,Ti si srce moje,1BXPX+6H_1_59,moje,Ncfsg,moj,O
+Severina,Trava zelena,1BXPX+6H_1_60,Trava,Ncfsn,trava,O
+Severina,Trava zelena,1BXPX+6H_1_60,zelena,Agpfsny,zelen,O
+Severina,Tuge od sna,1BXPX+6H_1_61,Tuge,Ncfpn,tuga,O
+Severina,Tuge od sna,1BXPX+6H_1_61,od,Sg,od,O
+Severina,Tuge od sna,1BXPX+6H_1_61,sna,Ncmsg,san,O
+Severina,Tvoja prva djevojka,1BXPX+6H_1_62,Tvoja,Ps2fsn,tvoj,O
+Severina,Tvoja prva djevojka,1BXPX+6H_1_62,prva,Mlofsn,prvi,O
+Severina,Tvoja prva djevojka,1BXPX+6H_1_62,djevojka,Ncfsn,djevojka,O
+Severina,Uzbuna,1BXPX+6H_1_63,Uzbuna,Ncfsn,uzbuna,O
+Severina,Veselje ti navješćujem,1BXPX+6H_1_64,Veselje,Ncnsn,veselje,O
+Severina,Veselje ti navješćujem,1BXPX+6H_1_64,ti,Pp2-sd,ti,O
+Severina,Veselje ti navješćujem,1BXPX+6H_1_64,navješćujem,Vmr1s,navješćivati,O
+Severina,Vodi me na ples,1BXPX+6H_1_65,Vodi,Vmr3s,voditi,O
+Severina,Vodi me na ples,1BXPX+6H_1_65,me,Pp1-sa,ja,O
+Severina,Vodi me na ples,1BXPX+6H_1_65,na,Sa,na,O
+Severina,Vodi me na ples,1BXPX+6H_1_65,ples,Ncmsan,ples,O
+Severina,Vrati se pod hitno,1BXPX+6H_1_66,Vrati,Vmr3s,vratiti,O
+Severina,Vrati se pod hitno,1BXPX+6H_1_66,se,Px--sa,sebe,O
+Severina,Vrati se pod hitno,1BXPX+6H_1_66,pod,Si,pod,O
+Severina,Vrati se pod hitno,1BXPX+6H_1_66,hitno,Agpnsny,hitan,O
+Severina,Zamisli,1BXPX+6H_1_67,Zamisli,Ncfpn,zamisao,O
+Severina,Zdravo Marijo,1BXPX+6H_1_68,Zdravo,Rgp,zdravo,O
+Severina,Zdravo Marijo,1BXPX+6H_1_68,Marijo,Npmsn,Marijo,B-per

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CroLyrics</title>
+    <link rel="stylesheet" href="/stylesheets/landing.css">
+</head>
+<body>
+
+    <section class="showcase">
+        <header>
+            <h1>Ista pisma samo druge riči</h1>
+            <p>Analiza rijeci u tekstovima najpopularnijih hrvatskih izvodaca</p>
+        </header>
+
+        <div class="buttons">
+            <a href="#artists" class="landing-button"><span>Izvodaci</span></a>
+            <a href="#" class="landing-button"><span>Pjesme</span></a>
+            <a href="#" class="landing-button"><span>Ostalo</span></a>
+            
+        </div>
+    </section>
+
+
+    <hr>
+
+    <span class="section">Izvodaci</span>
+    <div class="artists" id="artists">
+        
+        <% for (const artist of artists) { %>
+            <a href="/artists/<%= artist._id%>" class="artistContainer">
+                <div class="overlay">
+                    <div class="artistName"><%= artist.name %></div>
+                </div> 
+                    <img src= "<%= artist.image %>" width="200" height="200" class="artistImage" alt="<%= artist.name %>">
+            </a>                
+        <% } %>
+    </div>
+
+    <hr>
+
+
+
+
+
+<script> </script>
+       
+</body>
+</html>
