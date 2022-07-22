@@ -4,8 +4,8 @@ Steps of the workflow are as follow:
 
 1. [Webscraping the Lyrics](#webscraping-the-lyrics)
 2. [Data Cleaning and NLP](#data-cleaning-and-nlp)
-3. Summary analysis of lyrics and building Dashboard
-4. Clustering
+3. [Summary statistic of lyrics](#summary-statistics-of-lyrics)
+4. [Clustering](#clustering)
 
 ## Webscraping the Lyrics
 [This](https://github.com/datamilas/CroLyricsProject/blob/master/Python/google_colab/scraping.ipynb) notebook is used for webscraping and can be run in google colab. It uses BeautifulSoup, selenium and discogs API to scrape lyrics and some additional information on songs 
@@ -66,3 +66,9 @@ Cleaned data was fed into the [Classla pipline](https://pypi.org/project/classla
 - dependency parsing
 = named entity recognition
 
+
+
+
+## Summary statistic of lyrics
+
+## Clustering
