@@ -12,7 +12,7 @@ Steps of the workflow are as follow:
 [This](https://github.com/datamilas/CroLyricsProject/blob/master/Python/google_colab/scraping.ipynb) notebook is used for webscraping and can be run in google colab. It uses
 BeautifulSoup, selenium and discogs API to scrape lyrics and some additional information on songs 
 
-# Data sources
+### Data sources
 
 **Lyrics sources**
 
