@@ -59,5 +59,10 @@ Data cleaning step uses regex to remove the words that are not part of the lyric
 Since some of the songs have lyrics from several different sources, the priority is given to the most reliable available source. The hierarchy of reliability is as follows: lyricstranslate.com, cuspajz.com, tekstovinet.net.
 
 ### NLP
-
+Cleaned data was fed into the [Classla pipline](https://pypi.org/project/classla/) which performs:
+- tokenization and sentence splitting
+- part-of-speech tagging
+- lemmatization
+- dependency parsing
+= named entity recognition
 
