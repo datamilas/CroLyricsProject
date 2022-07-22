@@ -2,15 +2,13 @@ This is a repo of my personal project in which I scraped the lyrics of the songs
 
 Steps of the workflow are as follow:
 
-1. [Webscraping the lyrics](#webscraping-the-lyrics)
-2. Cleaning data
-3. NLP
-4. Summary analysis of lyrics and building Dashboard
-5. Clustering
+1. [Webscraping the Lyrics](#webscraping-the-lyrics)
+2. [Data Cleaning and NLP](#data-cleaning-and-nlp)
+3. Summary analysis of lyrics and building Dashboard
+4. Clustering
 
-## Webscraping the lyrics
-[This](https://github.com/datamilas/CroLyricsProject/blob/master/Python/google_colab/scraping.ipynb) notebook is used for webscraping and can be run in google colab. It uses
-BeautifulSoup, selenium and discogs API to scrape lyrics and some additional information on songs 
+## Webscraping the Lyrics
+[This](https://github.com/datamilas/CroLyricsProject/blob/master/Python/google_colab/scraping.ipynb) notebook is used for webscraping and can be run in google colab. It uses BeautifulSoup, selenium and discogs API to scrape lyrics and some additional information on songs 
 
 ### Data sources
 
@@ -49,4 +47,17 @@ Since tekstovi.net has the best database, it is used to get the basline list of 
 **Pros:** has official API  
 **Cons:** some mistakes  
 **Scraping method**: official API
+
+
+
+## Data Cleaning and NLP
+[This](https://github.com/datamilas/CroLyricsProject/blob/master/Python/google_colab/scraping.ipynb) notebook is used to perform Data cleaning and NLP.
+
+### Data cleaning
+Data cleaning step uses regex to remove the words that are not part of the lyrics, such as "Refren" and "Pripjev". Regex is also used to clean up some weird punctuation.
+
+Since some of the songs have lyrics from several different sources, the priority is given to the most reliable available source. The hierarchy of reliability is as follows: lyricstranslate.com, cuspajz.com, tekstovinet.net.
+
+### NLP
+
 
