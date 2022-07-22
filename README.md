@@ -64,7 +64,7 @@ Cleaned data was fed into the [Classla pipline](https://pypi.org/project/classla
 - part-of-speech tagging
 - lemmatization
 - dependency parsing
-= named entity recognition
+- named entity recognition
 
 
 
