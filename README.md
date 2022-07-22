@@ -1,4 +1,12 @@
+This is a repo of my personal project in which I scraped the lyrics of the songs of popular Croatian artists, built an interactive dashboard to analyze the lyrics, and built a clustering algorithm to cluster the artists with similar lyrics.
 
+Steps of the workflow are as follow:
+
+1. Webscraping the lyrics
+2. Cleaning data
+3. NLP
+4. Summary analysis of lyrics and building Dashboard
+5. Clustering
 
 ## Webscraping lyric of songs
 [This](https://github.com/datamilas/CroLyricsProject/blob/master/Python/google_colab/scraping.ipynb) notebook is used for webscraping and can be run in google colab. It uses
