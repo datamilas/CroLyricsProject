@@ -2,13 +2,13 @@ This is a repo of my personal project in which I scraped the lyrics of the songs
 
 Steps of the workflow are as follow:
 
-1. Webscraping the lyrics
+1. [Webscraping the lyrics](#webscraping-the-lyrics)
 2. Cleaning data
 3. NLP
 4. Summary analysis of lyrics and building Dashboard
 5. Clustering
 
-## Webscraping lyric of songs
+## Webscraping the lyrics
 [This](https://github.com/datamilas/CroLyricsProject/blob/master/Python/google_colab/scraping.ipynb) notebook is used for webscraping and can be run in google colab. It uses
 BeautifulSoup, selenium and discogs API to scrape lyrics and some additional information on songs 
 
