@@ -71,4 +71,8 @@ Cleaned data was fed into the [Classla pipline](https://pypi.org/project/classla
 
 ## Summary statistic of lyrics
 
+
 ## Clustering
+[This](https://github.com/datamilas/CroLyricsProject/blob/master/Python/tf-idf.ipynb) notebook is used to perform tf-idf and clustering.
+
+
