@@ -1,0 +1,14 @@
+name: CroLyrics_app
+title: CroLyrics_app
+username:
+account: ana-milas
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6691821
+bundleId: 6131815
+url: https://ana-milas.shinyapps.io/CroLyrics_app/
+when: 1658777665.75105
+lastSyncTime: 1658777665.75113
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data_wrangling.R

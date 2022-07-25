@@ -3,11 +3,11 @@ library(dplyr)
 library(ggplot2)
 
 #Data
-df <- read.csv("Python/R_dataframes/main_df.csv")
+df <- read.csv("Projects/CroLyricsProject/Python/R_dataframes/main_df.csv")
 
-df_unique_lemmas <- read.csv("Python/R_dataframes/df_unique_lemmas.csv")
-proper_nouns <- read.csv("Python/R_dataframes/proper_nouns.csv")
-nouns <- read.csv("Python/R_dataframes/nouns.csv")
+df_unique_lemmas <- read.csv("Projects/CroLyricsProject/Python/R_dataframes/df_unique_lemmas.csv")
+proper_nouns <- read.csv("..Python/R_dataframes/proper_nouns.csv")
+nouns <- read.csv("..Python/R_dataframes/nouns.csv")
 
 
 get_subdf <- function(wordtype) {
