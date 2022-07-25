@@ -4,7 +4,7 @@ Steps of the workflow are as follow:
 
 1. [Webscraping the Lyrics](#webscraping-the-lyrics)
 2. [Data Cleaning and NLP](#data-cleaning-and-nlp)
-3. [Summary statistic of lyrics](#summary-statistics-of-lyrics)
+3. [Making Dashboard](#making-dashboard)
 4. [Clustering](#clustering)
 
 ## Webscraping the Lyrics
@@ -69,8 +69,8 @@ Cleaned data was fed into the [Classla pipline](https://pypi.org/project/classla
 
 
 
-## Summary statistic of lyrics
-
+## Making dashboard
+Dashboard to explore data was done using R Shiny and is available [here]{https://ana-milas.shinyapps.io/CroLyrics_app/}
 
 ## Clustering
 [This](https://github.com/datamilas/CroLyricsProject/blob/master/Python/tf-idf.ipynb) notebook is used to perform tf-idf and clustering.
