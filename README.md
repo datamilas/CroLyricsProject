@@ -70,7 +70,7 @@ Cleaned data was fed into the [Classla pipline](https://pypi.org/project/classla
 
 
 ## Making dashboard
-Dashboard to explore data was done using R Shiny and is available [here][https://ana-milas.shinyapps.io/CroLyrics_app/]
+Dashboard to explore data was done using R Shiny and is available [here](https://ana-milas.shinyapps.io/CroLyrics_app/)
 
 ## Clustering
 [This](https://github.com/datamilas/CroLyricsProject/blob/master/Python/tf-idf.ipynb) notebook is used to perform tf-idf and clustering.
