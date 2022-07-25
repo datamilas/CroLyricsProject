@@ -339,8 +339,9 @@ server <- function(input, output) {
 
     temp_df_table <- temp_df_highlight_word_global()
     if (clicked_singer() != "") {
-      temp_df_table <- filter(temp_df_global(), temp_df_global()$Artist_name == clicked_singer())
+      temp_df_table <- filter(temp_df_table, temp_df_table$Artist_name == clicked_singer())
     }
+
 
     temp_df_table$Lyrics_url <-
       paste0(
