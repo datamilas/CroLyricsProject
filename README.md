@@ -1,6 +1,7 @@
 This is a repo of my personal project in which I scraped the lyrics of the songs of popular Croatian artists, built an interactive dashboard to analyze the lyrics, and built a clustering algorithm to cluster the artists with similar lyrics.
 
-You can read about it in [this blog post](tinyurl.com/CroLyrics) or explore the data using [this dashboard](https://ana-milas.shinyapps.io/CroLyrics_app/)
+You can read about it in [this blog post](tinyurl.com/CroLyrics) or explore the data using [this dashboard](https://ana-milas.shinyapps.io/CroLyrics_app/).
+
 
 Steps of the workflow are as follow:
 
