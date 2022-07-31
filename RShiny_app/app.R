@@ -8,57 +8,92 @@ library(dplyr)
 library(shinydashboard)
 library(shinyWidgets)
 
-highlight_color = "#3d8dbc"
-bars_color = "#d3d3d3"
+highlight_color <- "#3d8dbc"
+bars_color <- "#d3d3d3"
 
-box_title_style = 'font-size:20px;font-weight: bold'
+box_title_style <- 'font-size:20px;font-weight: bold'
 
 
 
 ## Data
 df <- read.csv("./Data/main_df.csv")
-df_unique_lemmas_all <-
-  df %>% distinct(Song_ID, lemma, .keep_all = TRUE)
 
-df_unique_lemmas <-
-  read.csv("./Data/df_unique_lemmas.csv")
-proper_nouns <- read.csv("./Data/proper_nouns.csv")
-nouns <- read.csv("./Data/nouns.csv")
-verbs <- read.csv("./Data/verbs.csv")
-adjectives <- read.csv("./Data/adjectives.csv")
-adverbs <- read.csv("./Data/adverbs.csv")
-determiners <- read.csv("./Data/determiners.csv")
+df_unique_song <- df[!duplicated(df$Song_ID), ] 
+unique_songs_id <- df_unique_song[!duplicated(df_unique_song[c("Lyrics_url","Artist_name")]),]$Song_ID #find songs that have same lyrics url and same Artist, but different Song_ID
 
-singers_song_num = df[!duplicated(df$Song_ID), ] %>% count(Artist_name)
-all_singers = unique(df$Artist_name)
-num_singers = length(unique(df$Artist_name))
-num_songs = length(unique(df$Song_ID))
-num_words = dim(df)[1]
+df <- df%>%
+  filter(upos!="PUNCT" & upos!="SYM")%>%
+  filter(Song_ID %in% unique_songs_id)
+
+
+df_unique_lemmas_all <-df %>% 
+  distinct(Song_ID, lemma, .keep_all = TRUE)
+
+
+POS_tags <- c("All Words", "General Noun", "Proper Noun", "Verb", "Adjective", "Adverb", "Determiner", "Adposition", "Auxiliary", "Interjection", "Particle",
+             "Subordinating Conjunction", "Coordinating Conjunction", "Number", "Other")
+
+
+singers_song_num <- df[!duplicated(df$Song_ID), ] %>% count(Artist_name)
+all_singers <- unique(df$Artist_name)
+num_singers <- length(unique(df$Artist_name))
+num_songs <- length(unique(df$Song_ID))
+num_words <- dim(df)[1]
+num_unique_words <- dim(df_unique_lemmas_all)[1]
 
 
 ## Functions
 get_subdf <- function(wordtype) {
   if (wordtype == "Proper Noun") {
-    dataframe = proper_nouns
+    df_upos <- "PROPN"
   }
   else if (wordtype == "General Noun") {
-    dataframe = nouns
+    df_upos <- "NOUN"
   }
   else if (wordtype == "Verb") {
-    dataframe = verbs
+    df_upos <- "VERB"
   }
   else if (wordtype == "Adjective") {
-    dataframe = adjectives
+    df_upos <-"ADJ"
   }
   else if (wordtype == "Adverb") {
-    dataframe = adverbs
+    df_upos <-"ADV"
   }
   else if (wordtype == "Determiner") {
-    dataframe = determiners
+    df_upos <- "DET"
+  }
+  else if (wordtype == "Adposition") {
+    df_upos <- "ADP"
+  }
+  else if (wordtype == "Auxiliary") {
+    df_upos <- "AUX"
+  }
+  else if (wordtype == "Interjection") {
+    df_upos <- "INTJ"
+  }
+  else if (wordtype == "Particle") {
+    df_upos <- "PART"
+  }
+  else if (wordtype == "Subordinating Conjunction") {
+    df_upos <- "SCONJ" 
+  }
+  else if (wordtype == "Coordinating Conjunction") {
+    df_upos <- "CCONJ" 
+  }
+  else if (wordtype == "Number") {
+    df_upos <- "NUM" 
+  }
+  else if (wordtype == "Other") {
+    df_upos <- "X" 
   }
   else {
-    dataframe = df_unique_lemmas
+    df_upos <- NULL
+    dataframe <- df_unique_lemmas_all
   }
+  
+  if (!is.null(df_upos)) {dataframe <- df_unique_lemmas_all %>% filter(upos==df_upos)}
+
+  
   return(dataframe)
 }
 
@@ -114,7 +149,7 @@ make_bar_plot <-
 
 
 
-# Define UI for application that draws a histogram
+# UI stuff
 ui <- dashboardPage(
   dashboardHeader(title = "Cro Lyrics Dashboard"),
   
@@ -134,25 +169,32 @@ ui <- dashboardPage(
   
   dashboardBody(
     valueBox(
-      width = 4,
+      width = 3,
       tags$p(num_singers, style = "font-size: 120%;"),
       tags$p("Singers", style = "font-size: 150%;"),
       icon = icon("microphone"),
       color = "light-blue"
     ),
     valueBox(
-      width = 4,
+      width = 3,
       tags$p(num_songs, style = "font-size: 120%;"),
       tags$p("Songs", style = "font-size: 150%;"),
       color = "light-blue",
       icon = icon("music")
     ),
     valueBox(
-      width = 4,
+      width = 3,
       tags$p(num_words, style = "font-size: 120%;"),
       tags$p("Words", style = "font-size: 150%;"),
       color = "light-blue",
       icon = icon("align-left")
+    ),
+    valueBox(
+      width = 3,
+      tags$p(num_unique_words, style = "font-size: 120%;"),
+      tags$p("Unique Words", style = "font-size: 150%;"),
+      color = "light-blue",
+      icon = icon("align-right")
     ),
     
     tabItems(
@@ -170,15 +212,7 @@ ui <- dashboardPage(
                     selectInput(
                       "word_type",
                       "Select POS type",
-                      c(
-                        "All words",
-                        "General Noun",
-                        "Proper Noun",
-                        "Verb",
-                        "Adjective",
-                        "Adverb",
-                        "Determiner"
-                      ),
+                      POS_tags,
                       selected = "General Noun"
                     ),
                     radioButtons("topN", "Select number of words to show", c(5, 10, 20), selected = 10),
@@ -258,22 +292,15 @@ ui <- dashboardPage(
                     selectInput(
                       "word_type_singers",
                       "Select POS type",
-                      c(
-                        "All words",
-                        "General Noun",
-                        "Proper Noun",
-                        "Verb",
-                        "Adjective",
-                        "Adverb",
-                        "Determiner"
-                      ),
+                      POS_tags,
                       selected = "General Noun"
                     ),
                     radioButtons(
                       "topNSingers",
-                      "Select number of words to show",
+                      "Show top:",
                       c(5, 10, 20),
-                      selected = 10
+                      selected = 10,
+                      inline=TRUE
                     ),
                     radioButtons(
                       "valueWordsSingers",
@@ -305,9 +332,17 @@ ui <- dashboardPage(
       a("lyricstranslate.com,", href = "https://lyricstranslate.com/"),
       a("cuspajz.com,", href = "https://cuspajz.com/"),
       a("tekstovi.net", href = "https://tekstovi.net/")
+    ),
+    
+    p(
+      span("NLP:"),
+      a("https://pypi.org/project/classla/", href = "https://pypi.org/project/classla/")
+    ),
+    
+    p(
+      span("Github repo:"),
+      a("https://github.com/datamilas/CroLyricsProject", href = "https://github.com/datamilas/CroLyricsProject")
     )
-    
-    
     
   )
 )
@@ -315,7 +350,7 @@ ui <- dashboardPage(
 
 
 
-
+## Server stuff
 
 server <- function(input, output) {
   ## Observe which input changed
